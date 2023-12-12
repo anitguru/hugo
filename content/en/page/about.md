@@ -23,7 +23,7 @@ Wisdom and sound finances are essential for a life free from worry. Whether you'
 
 The foundation of a happy life is human connection. We explore the art of creating and preserving wholesome relationships at Welcome Rain. We offer advice on building enduring and meaningful relationships in various contexts, including romantic relationships, friendships, family relationships, and professional networks.
 
-Come Aboard Our Community!
+**Come Aboard Our Community!**
 
 Welcome Rain is a community of like-minded people on a journey to improve their lives, not just a blog. We invite our readers to contribute their experiences, observations, and tales. You don't have to do it alone in your quest for a balanced existence. Come on over, and let's make each day matter!
 
