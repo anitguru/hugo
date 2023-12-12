@@ -4,6 +4,7 @@ title: "Blist Multilingual Theme"
 theme: "blist"
 DefaultContentLanguage: "en"
 DefaultContentLanguageInSubdir: true
+canonifyURLs: true
 languages:
   en:
     contentDir: "content/en" #English
