@@ -13,7 +13,7 @@ languages:
     params:
       introTitle: "Welcome Rain"
       introSubtitle: "Enhancing Health, Wealth, & Relationships — A Journey of Empowerment"
-      introPhoto: "picture.png"
+      introPhoto: "/picture.png"
       logo: "/new.png"
     menu:
       main:
