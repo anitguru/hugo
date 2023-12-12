@@ -1,4 +1,4 @@
-baseurl: "welcomerain.pub"
+baseurl: "https://anitguru.github.io/hugo"
 metaDataFormat: "yaml"
 title: "Blist Multilingual Theme"
 theme: "blist"
