@@ -12,8 +12,8 @@ languages:
     params:
       introTitle: "Welcome Rain"
       introSubtitle: "Enhancing Health, Wealth, & Relationships — A Journey of Empowerment"
-      introPhoto: "/picture.png"
-      logo: "/new.png"
+      introPhoto: "static/picture.png"
+      logo: "static/new.png"
     menu:
       main:
         - name: "Blog"
@@ -79,7 +79,7 @@ params:
   enableSearch: true
   searchKeys: ["tags", "date", "categories", "summary", "content", "link", "author"]
   copyright: "Copyright © 2024 - Welcome Rain · All rights reserved"
-  favicon: "/new.png"
+  favicon: "static/new.png"
   ascentColor: "bg-blue-100"
   frontBundle: "blog"
   hideMeta: false
