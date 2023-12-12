@@ -1,0 +1,129 @@
+baseurl: ""
+metaDataFormat: "yaml"
+title: "Blist Multilingual Theme"
+theme: "blist"
+DefaultContentLanguage: "en"
+DefaultContentLanguageInSubdir: true
+languages:
+  en:
+    contentDir: "content/en" #English
+    weight: 1
+    languageName: "English"
+    params:
+      introTitle: "Welcome Rain"
+      introSubtitle: "Enhancing Health, Wealth, & Relationships — A Journey of Empowerment"
+      introPhoto: "/picture.png"
+      logo: "/new.png"
+    menu:
+      main:
+        - name: "Blog"
+          url: "blog"
+          weight: 1
+        - name: "About"
+          url: "page/about/"
+          weight: 2
+        - name: "Tags"
+          url: "tags"
+          weight: 3
+        - name: "Top Post"
+          url: "/en/blog/emoji-support/"
+          weight: 4
+  de:
+    contentDir: "content/de" # Deutsch
+    weight: 2
+    languageName: "Deutsch"
+    title: "Blist (mehrsprachig)"
+    description: "Modernes Blog-Theme für Ihre Hugo-Site."
+    params:
+      introTitle: "Welcome Rain"
+      introSubtitle: "26-jährige Junior-Entwicklerin, die Spaß an sozialen Kartenspielen, Bloggen und Malen hat"
+      introPhoto: "/picture.jpg"
+      logo: "/blist-logo-de.png"
+    menu:
+      main:
+        - name: "Blog"
+          url: "blog"
+          weight: 1
+        - name: "Über mich"
+          url: "page/about/"
+          weight: 2
+        - name: "Tags"
+          url: "tags"
+          weight: 3
+  fr:
+    contentDir: "content/fr" #French
+    weight: 1
+    languageName: "Français"
+    params:
+      introTitle: "Welcome Rain"
+      introSubtitle: "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
+      introPhoto: "/picture.jpg"
+      logo: "/blist-logo.png"
+    menu:
+      main:
+        - name: "Blog"
+          url: "blog"
+          weight: 1
+        - name: "À propos"
+          url: "page/about/"
+          weight: 2
+        - name: "Tags"
+          url: "tags"
+          weight: 3
+  dy:
+    contentDir: "content/dy" #Example language
+    weight: 3
+    languageName: "Test Language"
+params:
+  darkModeToggle: true
+  enableSearch: true
+  searchKeys: ["tags", "date", "categories", "summary", "content", "link", "author"]
+  copyright: "Copyright © 2024 - Welcome Rain · All rights reserved"
+  favicon: "/new.png"
+  ascentColor: "bg-blue-100"
+  frontBundle: "blog"
+  hideMeta: false
+  hideOtherLanguages: false
+  toc: true
+  hidePageThumbnail: false
+comments:
+  system: "giscus"
+  repo: ""
+  repoid: ""
+  category: ""
+  categoryid: ""
+  mapping: ""
+  strict: ""
+  reactionsenabled: ""
+  emitmetadata: ""
+  inputposition: ""
+  theme: ""
+homepage:
+  social:
+    title: "Follow Us"
+    description: "I work on everything coding and tweet developer memes"
+    icons:
+      - website: "twitter"
+        url: "https://twitter.com/"
+      - website: "linkedin"
+        url: "https://linkedin.com/in/"
+      - website: "xing"
+        url: "https://www.xing.com/profile/"
+      - website: "telegram"
+        url: "https://t.me/"
+      - website: "github"
+        url: "https://github.com/"
+      - website: "buymeacoffee"
+        url: "https://www.buymeacoffee.com/"
+      - website: "medium"
+        url: "https://medium.com/"
+      - website: "reddit"
+        url: "https://reddit.com/"
+      - website: "dribbble"
+        url: "https://dribbble.com/"
+      - website: "stackoverflow"
+        url: "https://stackoverflow.com/"
+      - website: "xda"
+        url: "https://forum.xda-developers.com/"
+      - website: "tiktok"
+        url: "https://tiktok.com"
