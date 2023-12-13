@@ -1,4 +1,4 @@
 ---
-author: Katheryn Fox
-title: Blog
+author: Steve VanAllen
+title: Welcome Rain
 ---
