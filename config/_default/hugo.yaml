@@ -1,4 +1,4 @@
-baseurl: "https://anitguru.github.io/hugo/"
+baseurl: "https://anitguru.github.io"
 metaDataFormat: "yaml"
 title: "Blist Multilingual Theme"
 theme: "blist"
@@ -38,8 +38,8 @@ languages:
     params:
       introTitle: "Welcome Rain"
       introSubtitle: "26-jährige Junior-Entwicklerin, die Spaß an sozialen Kartenspielen, Bloggen und Malen hat"
-      introPhoto: "/picture.jpg"
-      logo: "/blist-logo-de.png"
+      introPhoto: "/picture.png"
+      logo: "/new.png"
     menu:
       main:
         - name: "Blog"
@@ -58,8 +58,8 @@ languages:
     params:
       introTitle: "Welcome Rain"
       introSubtitle: "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
-      introPhoto: "/picture.jpg"
-      logo: "/blist-logo.png"
+      introPhoto: "/picture.png"
+      logo: "/new.png"
     menu:
       main:
         - name: "Blog"
