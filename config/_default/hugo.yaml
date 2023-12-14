@@ -1,6 +1,6 @@
 baseurl: "https://welcomerain.pub"
 metaDataFormat: "yaml"
-title: "Blist Multilingual Theme"
+title: "Welcome Rain"
 theme: "blist"
 DefaultContentLanguage: "en"
 DefaultContentLanguageInSubdir: true
