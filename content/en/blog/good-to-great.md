@@ -15,6 +15,8 @@ Jim Collins asks a fundamental question in the first chapter of “Good to Great
 
 ## The Idea of the Hedgehog
 
+!(/hedgehog.png)
+
 A crucial idea presented early in the book is the “Hedgehog Concept.” Collins gets his inspiration from Isaiah Berlin’s well-known essay “The Hedgehog and the Fox,” which examines the notion that the fox is a multi-talented learner. At the same time, the hedgehog is only aware of one major item. Within the business realm, the hedgehog concept stands for the fundamental notion that exceptional organizations thoroughly comprehend their competitive advantages, absolute values, and what motivates them.
 
 > [Gain access to this book completely free of charge.](https://medium.com/r/?url=https%3A%2F%2Fwlr.link%2Fgood-to-great-audio)

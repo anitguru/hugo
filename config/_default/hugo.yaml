@@ -8,6 +8,7 @@ canonifyURLs: false
 languages:
   en:
     contentDir: "content/en" #English
+    disabled: false
     weight: 1
     languageName: "English"
     params:
@@ -27,10 +28,11 @@ languages:
           url: "tags"
           weight: 3
         - name: "Top Post"
-          url: "/en/blog/emoji-support/"
+          url: "/en/blog/good-to-great/"
           weight: 4
   de:
     contentDir: "content/de" # Deutsch
+    disabled: true
     weight: 2
     languageName: "Deutsch"
     title: "Blist (mehrsprachig)"
@@ -53,6 +55,7 @@ languages:
           weight: 3
   fr:
     contentDir: "content/fr" #French
+    disabled: true
     weight: 1
     languageName: "Français"
     params:
@@ -73,6 +76,7 @@ languages:
           weight: 3
   dy:
     contentDir: "content/dy" #Example language
+    disabled: true
     weight: 3
     languageName: "Test Language"
 params:
@@ -84,7 +88,7 @@ params:
   ascentColor: "bg-blue-100"
   frontBundle: "blog"
   hideMeta: false
-  hideOtherLanguages: false
+  hideOtherLanguages: true
   toc: true
   hidePageThumbnail: false
 comments:
