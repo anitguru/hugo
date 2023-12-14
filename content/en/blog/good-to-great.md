@@ -83,6 +83,8 @@ These case studies show how these businesses achieved and maintained excellence 
 
 Jim Collins’ book “Good to Great” thoroughly examines what it takes for businesses to progress from being good to attaining long-term greatness. Collins offers insightful advice for executives and companies hoping to succeed in their particular fields through in-depth research, case studies, and valuable concepts. The book emphasizes that the keys to long-term success are steadfast dedication to core beliefs, focused activity, and strong leadership. By comprehending and implementing the teachings from “Good to Great,” businesses can embark on a revolutionary path toward excellence.
 
+---
+
 > Visit [audible.com](https://wlr.link/good-to-great-audio) to listen to the audiobook for FREE or get the [Kindle version](https://wlr.link/good-to-great-ebook) for only **50 cents**! The [hardcover](https://wlr.link/good-to-great-hardcover) makes a great gift.
 
 
