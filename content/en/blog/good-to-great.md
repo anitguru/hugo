@@ -15,7 +15,7 @@ Jim Collins asks a fundamental question in the first chapter of “Good to Great
 
 ## The Idea of the Hedgehog
 
-!(/hedgehog.png)
+![The Idea of the Hedgehog](/hedgehog.webp)
 
 A crucial idea presented early in the book is the “Hedgehog Concept.” Collins gets his inspiration from Isaiah Berlin’s well-known essay “The Hedgehog and the Fox,” which examines the notion that the fox is a multi-talented learner. At the same time, the hedgehog is only aware of one major item. Within the business realm, the hedgehog concept stands for the fundamental notion that exceptional organizations thoroughly comprehend their competitive advantages, absolute values, and what motivates them.
 
@@ -37,11 +37,15 @@ Additionally, level 5 leaders exhibit a paradoxical fusion of intense determinat
 
 ## The Flywheel Impact
 
+![The Flywheel Impact](/flywheel.webp)
+
 Collins compares the process of attaining greatness to a gigantic flywheel. Turning the flywheel initially takes a lot of effort and is slow. On the other hand, momentum makes acceleration and maintenance simpler. The important thing is to keep doing and making the same choices, even if things aren’t moving very far at first.
 
 Prominent corporations recognize the value of a steady, systematic approach. Even when the outcomes aren’t evident immediately, they concentrate on creating momentum through a sequence of skillfully performed tasks. This dedication to the flywheel effect eventually results in essential discoveries and long-term excellence.
 
 ## The Paradox of Stockdale
+
+![The Paradox of Stockdale](/stockdale.webp)
 
 Collins presents the Stockdale Paradox, which bears the name of Vietnam War prisoner Admiral James Stockdale. The paradox emphasizes how crucial it is to face the harsh realities of the present world with unshakeable trust in the ultimate objective. Stockdale overcame his adversity by accepting the severe conditions of his incarceration and holding onto the hope that he would one day be free.
 
@@ -82,6 +86,8 @@ Walgreens, Abbott Laboratories, Kimberly-Clark, and Circuit City (Note: This cas
 These case studies show how these businesses achieved and maintained excellence by implementing the Hedgehog Concept, Level 5 leadership, and other important ideas.
 
 ## Final Thoughts
+
+![Final Thoughts](/finalthoughts.webp)
 
 Jim Collins’ book “Good to Great” thoroughly examines what it takes for businesses to progress from being good to attaining long-term greatness. Collins offers insightful advice for executives and companies hoping to succeed in their particular fields through in-depth research, case studies, and valuable concepts. The book emphasizes that the keys to long-term success are steadfast dedication to core beliefs, focused activity, and strong leadership. By comprehending and implementing the teachings from “Good to Great,” businesses can embark on a revolutionary path toward excellence.
 
