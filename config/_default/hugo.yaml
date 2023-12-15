@@ -5,7 +5,7 @@ theme: "blist"
 DefaultContentLanguage: "en"
 DefaultContentLanguageInSubdir: true
 canonifyURLs: false
-disqusShortname: "welcomerain"
+#disqusShortname: "welcomerain"
 languages:
   en:
     contentDir: "content/en" #English
@@ -102,17 +102,17 @@ params:
   toc: true
   hidePageThumbnail: false
   comments:
-    system: "disqus"
-    repo: ""
-    repoid: ""
-    category: ""
-    categoryid: ""
-    mapping: ""
-    strict: ""
-    reactionsenabled: ""
-    emitmetadata: ""
-    inputposition: ""
-    theme: ""
+    system: "giscus"
+    repo: "anitguru/hugo"
+    repoid: "R_kgDOK4q08w"
+    category: "General"
+    categoryid: "DIC_kwDOK4q0884Cbxq3"
+    mapping: pathname""
+    strict: "0"
+    reactionsenabled: "1"
+    emitmetadata: "0"
+    inputposition: "top"
+    theme: "preferred_color_scheme"
   homepage:
     social:
       title: "Follow Us"
