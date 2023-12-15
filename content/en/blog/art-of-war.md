@@ -71,8 +71,13 @@ So what is this situation’s call to action? It’s easy: use strategy. Using t
 
 Keep in mind that working smarter, not harder, is more important in the corporate world. So arm yourself with Sun Tzu’s wisdom, master the art of strategic planning, and get set to take over your firm. Let’s transform these antiquated tactics into contemporary triumphs. Are you prepared to leave your imprint and embrace your inner Sun Tzu? Let’s go win! 🌟📈🚀
 
-Visit audible.com to listen to the audiobook for FREE or get the Kindle version for only 50 cents! The hardcover makes a great gift.
+---
+
+> Visit [audible.com](https://wlr.link/good-to-great-audio) to listen to the audiobook for FREE or get the [Kindle version](https://wlr.link/good-to-great-ebook) for only **50 cents**! The [hardcover](https://wlr.link/good-to-great-hardcover) makes a great gift.
 
 
-Your support on ‘Buy Me a Coffee’ fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.
-This post contains sponsored links.
+*Your support on ‘[Buy Me a Coffee](https://wlr.link/buy-me-a-coffee)’ fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
+
+![Buy me a coffee!](/coffee.png)
+
+*This post contains sponsored [links](https://wlr.link/m/bio).*
