@@ -39,7 +39,6 @@ languages:
     weight: 2
     languageName: "Deutsch"
     title: "Blist (mehrsprachig)"
-    description: "Modernes Blog-Theme für Ihre Hugo-Site."
     params:
       introTitle: "Welcome Rain"
       introSubtitle: "26-jährige Junior-Entwicklerin, die Spaß an sozialen Kartenspielen, Bloggen und Malen hat"
