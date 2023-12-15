@@ -33,6 +33,8 @@ To put it briefly, you can create tactics that are not only wise but also long-l
 
 ## Attack using Tactical Positioning and Stratagem
 
+![stratagem](/stratagem.webp)
+
 Now that we’re in the realm of Sun Tzu’s “Attack by Stratagem” and “Tactical Dispositions,” it’s time to get serious about being a cunning businessman. Here, Sun Tzu, the grandmaster of strategy, teaches us how to win without raising a fuss in these portions. It’s similar to playing a worldwide game of chess, where it’s more cool to outwit your opponent than to outmuscle them.
 
 In “Attack by Stratagem,” Sun Tzu imparts this wisdom: the most satisfying triumph is the one achieved without resorting to force. This is gold for business mavericks. Imagine outwitting your rivals with such ease that they fail to recognize you coming. It involves being astute, creative, and anticipatory. Making intelligent moves is more important than simply moving.
