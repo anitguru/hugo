@@ -5,6 +5,7 @@ theme: "blist"
 DefaultContentLanguage: "en"
 DefaultContentLanguageInSubdir: true
 canonifyURLs: false
+disqusShortname: "welcomerain"
 languages:
   en:
     contentDir: "content/en" #English
@@ -101,7 +102,7 @@ params:
   toc: true
   hidePageThumbnail: false
   comments:
-    system: "giscus"
+    system: "disqus"
     repo: ""
     repoid: ""
     category: ""
