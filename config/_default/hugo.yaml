@@ -44,6 +44,8 @@ languages:
       logo: "/new.png"
     menu:
       main:
+        - name: "Home"
+          url: "/"
         - name: "Blog"
           url: "blog"
           weight: 1
