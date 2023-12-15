@@ -69,6 +69,8 @@ Sun Tzu’s advice on using spies is essentially a reminder that in business, kn
 
 ## Final Thoughts
 
+![final](/final.webp)
+
 As we get to the end of our exploration of Sun Tzu’s strategic genius in “The Art of War,” it’s evident that this work is a manual for contemporary business mastery rather than only an antiquated manual on war tactics. Full of tactical advice, each chapter is like a secret key that opens doors to success in today’s cutthroat business world.
 
 Consider Sun Tzu to be your sage tutor, someone who has seen it all. He teaches you the strategy as well as the mechanics of the game. Sun Tzu’s principles help you navigate the difficult economic battlefield by employing information as a secret weapon, maximizing your resources, and outwitting adversaries with shrewd strategies.
