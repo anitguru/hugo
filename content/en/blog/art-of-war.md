@@ -45,6 +45,8 @@ Thus, it matters how you do things as much as what you do. You’re not just pla
 
 ## Vitality, Weaknesses, and Strengths
 
+![strengths](/strengths.webp)
+
 Fasten your seatbelts, for Sun Tzu’s “Energy” and “Weak Points and Strong” chapters are where business turns into a high-stakes game. This place has the atmosphere of a ninja and a detective together.
 
 Sun Tzu’s playbook defines “energy” as dynamism and momentum. Consider it the turbo-charged engine of the corporate world. It involves enhancing the energy and capabilities of your group to forge an unstoppable force. This is essentially what Sun Tzu is saying: “Hey, it’s not just about having the juice; it’s about how you squeeze it.” Here, timing, rhythm, and velocity are your closest allies. It’s similar to leading an orchestra, in which each note is precisely placed to produce a successful symphony.
@@ -54,6 +56,8 @@ Now that we’ve reached “Weak Points and Strong,” this is the part where yo
 To put it briefly, these parts focus on being astute, quick, and strategic. Play to your strengths, be aware of them, and be one step ahead of the opposition at all times. Are you prepared to rev up your tactics and identify the best course of action for success? 🌟💡🚀
 
 ## Using Spycraft
+
+![spycraft](/spycraft.webp)
 
 Greetings from Sun Tzu’s shadowy realm of “The Use of Spies.” In this exciting chapter, Sun Tzu assumes the role of the ultimate spymaster, reminding us that knowledge is the most potent tool in the corporate world. It’s similar to being in a high-stakes spy film where spotting your opponents’ movements is crucial to winning.
 
