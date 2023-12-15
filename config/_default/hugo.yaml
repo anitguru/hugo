@@ -84,6 +84,11 @@ languages:
     disabled: true
     weight: 3
     languageName: "Test Language"
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 params:
   darkModeToggle: true
   enableSearch: true
