@@ -107,7 +107,7 @@ params:
     repoid: "R_kgDOK4q08w"
     category: "General"
     categoryid: "DIC_kwDOK4q0884Cbxq3"
-    mapping: pathname""
+    mapping: "title"
     strict: "0"
     reactionsenabled: "1"
     emitmetadata: "0"
