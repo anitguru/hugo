@@ -1,7 +1,7 @@
 ---
 author: "Steve VanAllen"
-title: "Why I became a Friend of Medium"
-date: 2023-12-03
+title: "Why I Became a Friend of Medium"
+date: 2023-12-16
 description: "The 'Friend of Medium' program stands as a pivotal factor in enhancing the quality of content on Medium."
 tags: ["business"]
 thumbnail: "/winning.webp"
@@ -9,7 +9,7 @@ thumbnail: "/winning.webp"
 
 ## Preface
 
-With the launch of the "[Friend of Medium](https://blog.medium.com/become-a-friend-of-medium-dd2fa7bf16c3)" campaign, digital content development and consumption have advanced recently. I was immediately fascinated by Medium's announcement of this new membership tier because I love to read and I want to write. This is an additional financial support program for writers; the cost is higher than that of a Medium membership. Its straightforward but effective tenet is that readers can directly increase the revenue of their favorite writers by joining up and contributing more. 
+With the launch of the "[Friend of Medium](https://blog.medium.com/become-a-friend-of-medium-dd2fa7bf16c3)" campaign, digital content development and consumption have advanced recently. I was immediately fascinated by Medium's announcement of this new membership tier because I love reading and writing. This is an additional financial support program for writers; the cost is higher than that of a Medium membership. Its straightforward but effective tenet is that readers can directly increase the revenue of their favorite writers by joining up and contributing more. 
 
 The "Friend of Medium" program attracted me because I believe Medium offers a lot of interesting and thought-provoking content, and I want to do more to help the creative minds that create these compelling stories. For someone who appreciates the power of the written word and community engagement, this program looks like the natural next step because it helps to establish a livelier and more dynamic literary culture on Medium.  In addition, individuals who are interested in [earning money from blogging](https://wlr.link/profit-blog) could benefit greatly from the Friends of Medium program as more people sign up for it. 
 
