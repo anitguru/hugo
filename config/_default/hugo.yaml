@@ -8,7 +8,7 @@ canonifyURLs: false
 #disqusShortname: "welcomerain"
 services:
   googleAnalytics:
-    ID: G-SB346R14Y2
+    ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
 languages:
   en:
     contentDir: "content/en" #English
