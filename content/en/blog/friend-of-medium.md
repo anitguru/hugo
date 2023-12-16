@@ -23,7 +23,9 @@ At first, I wasn't sure about the "Friend of Medium" program. I realized its tru
 
 The "Friend of Medium" program is a major factor in raising the standard of content on Medium. Because of the program's substantial financial benefits, writers are strongly encouraged to participate. The potential to bring in four times as much money is not only advantageous financially, but it also shows how capable and determined they are. Writers are motivated to strive for higher writing standards and to invest more time, energy, and creativity into their work when they are acknowledged in this way. A higher degree of reader participation is also encouraged by this method. As members show their support with this improved subscription, a stronger sense of community solidarity is formed. Writers feel more connected to their audience when they realize that their work is genuinely appreciated. More engagement will likely lead to a livelier, more engaged community where discussions and criticism are welcomed, which will elevate the quality of content on the site even further.
 
-## Comparing Analytically with Standard Membership 
+## Comparing Analytically with Standard Membership
+
+![comparison](/comparative.png) 
 
 There are some obvious advantages that the Friend of Medium membership offers over the standard membership, even with its higher subscription fee. The primary goal is to give writers significantly more financial assistance; Friends of Medium readers earn three times as much as normal members do. This substantial revenue boost for content creators is the main differential. The Friend of Medium tier offers more community involvement and recognition than the regular membership, which just provides access to material and basic support. In addition, the Friend of Medium tier comes with special badges and access to exclusive features like Friend Links. These added benefits make the higher fee justified, especially for those who value superior writing and wish to contribute more to the Medium community.
 
