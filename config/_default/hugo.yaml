@@ -6,6 +6,9 @@ DefaultContentLanguage: "en"
 DefaultContentLanguageInSubdir: true
 canonifyURLs: false
 #disqusShortname: "welcomerain"
+services:
+  googleAnalytics:
+    ID: G-SB346R14Y2
 languages:
   en:
     contentDir: "content/en" #English
