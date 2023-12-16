@@ -1,6 +1,6 @@
 ---
 author: "Steve VanAllen"
-title: "Why I became Friend of Medium"
+title: "Why I became a Friend of Medium"
 date: 2023-12-03
 description: "The 'Friend of Medium' program stands as a pivotal factor in enhancing the quality of content on Medium."
 tags: ["business"]
