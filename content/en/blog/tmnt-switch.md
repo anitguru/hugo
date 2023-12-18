@@ -1,7 +1,7 @@
 ---
 author: "Steve VanAllen"
 title: "A Startling Retrospective Journey: TMNT on the Switch Delivers the Arcade Home!"
-date: 2023-12-16
+date: 2023-12-07
 description: "Our heroes in a half-shell must stop Shredder and the Foot Clan from their mischievous plans to rescue the day. "
 tags: ["health", "entertainment"]
 thumbnail: "/tmnt-switchwebp.webp"
