@@ -8,6 +8,7 @@ images:
 tags: ["health", "entertainment"]
 thumbnail: "/post-cover-tmnt-switch.webp"
 ---
+
 > Clap 👏 and comment 💬 to share your thoughts (requires a GitHub account).  If you don't have a GitHub account, this article is also posted on [Medium.](https://wlr.link/tmnt-review-switch)
 
 The holidays, ah! A moment of happiness, coziness, and… throwing down some severe smack-down with the [Nintendo Switch](https://wlr.link/nintendo-switch) Teenage Mutant Ninja Turtles! Nothing compares to sharing a little bit of your childhood with your children as a parent. For this reason, I’ve decided to give my son something unique for Christmas: the TMNT video game for the [Nintendo Switch,](https://wlr.link/nintendo-switch) which will both thrill him and be a blast from my past.
