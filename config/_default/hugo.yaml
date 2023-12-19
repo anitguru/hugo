@@ -93,6 +93,7 @@ outputs:
     - RSS
     - JSON
 params:
+  defaultTheme: "dark"
   darkModeToggle: true
   enableSearch: true
   social:
