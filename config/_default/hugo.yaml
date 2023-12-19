@@ -97,6 +97,9 @@ params:
   enableSearch: true
   social:
     twitter: welcomerainpub
+  description: Text about my cool site
+  images:
+    - site-feature-image.jpg
   searchKeys: ["tags", "date", "categories", "summary", "content", "link", "author"]
   copyright: "Copyright © 2024 - Welcome Rain · All rights reserved"
   favicon: "/wlr-site-logo.webp"

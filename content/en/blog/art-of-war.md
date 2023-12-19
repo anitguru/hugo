@@ -3,6 +3,8 @@ author: "Steve VanAllen"
 title: "Winning the Corporate Battlefield: Unleashing Sun Tzu’s Secrets in Business!"
 date: 2023-12-03
 description: "Written in the fifth century BC, it has thirteen chapters that analyze different facets of fighting. Surprisingly, its ideas are now fundamental to contemporary leadership and corporate tactics."
+images:
+  - /art-of-war-twitter-card.png
 tags: ["business"]
 thumbnail: "/art-of-war-cover.webp"
 ---
