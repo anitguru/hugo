@@ -18,8 +18,8 @@ languages:
     params:
       introTitle: "Welcome Rain"
       introSubtitle: "Enhancing Health, Wealth, & Relationships — A Journey of Empowerment"
-      introPhoto: "/picture.png"
-      logo: "/new.png"
+      introPhoto: "/wlr-site-feature-image.webp"
+      logo: "/wlr-site-logo.webp"
     menu:
       main:
         - name: "Home"
