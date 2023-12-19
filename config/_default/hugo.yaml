@@ -95,9 +95,11 @@ outputs:
 params:
   darkModeToggle: true
   enableSearch: true
+  social:
+    twitter: welcomerainpub
   searchKeys: ["tags", "date", "categories", "summary", "content", "link", "author"]
   copyright: "Copyright © 2024 - Welcome Rain · All rights reserved"
-  favicon: "/new.png"
+  favicon: "/wlr-site-logo.webp"
   ascentColor: "bg-blue-100"
   frontBundle: "blog"
   hideMeta: false
