@@ -35,7 +35,7 @@ languages:
           url: "tags"
           weight: 4
         - name: "Top Post"
-          url: "/en/blog/good-to-great/"
+          url: "/en/blog/elfred/"
           weight: 5
   de:
     contentDir: "content/de" # Deutsch
