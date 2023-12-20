@@ -5,6 +5,10 @@ date: 2023-12-12
 description:
 keywords: ["about-us", "about-hugo", "contact", "welcome-rain", "health", "wealth", "relationships"]
 type: about
+images:
+  - cool.gif
+tags: ["business"]
+thumbnail: "/cool.gif"
 ---
 
 **Step into Welcome Rain**: A Comprehensive Resource for Optimal Health, Smart Money Management, and Deep Connections.
