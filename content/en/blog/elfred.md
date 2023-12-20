@@ -4,7 +4,7 @@ title: "The Enchanting Tale of Elfred and the Shelf"
 date: 2023-12-18
 description: "Get ready to embark on an enchanting journey with Elfred and the Magical Shelf! It’s a tale of wonder and magic that will capture your imagination and leave you spellbound."
 images:
-  - featured-elf-on-a-shelf.webp
+  - elf-on-the-shelf-elfred-twitter-card.webp
 tags: ["business", "christmas", "fun", "technology", "this happened to me", "wealth"]
 thumbnail: "/featured-elf-on-a-shelf.webp"
 ---
