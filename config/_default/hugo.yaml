@@ -19,7 +19,7 @@ languages:
       introTitle: "Welcome Rain"
       introSubtitle: "Enhancing Health, Wealth, & Relationships — A Journey of Empowerment"
       introPhoto: "/wlr-site-feature-image.webp"
-      logo: "/base_icon_transparent_background.png"
+      logo: "/try.png"
     menu:
       main:
         - name: "Home"
