@@ -8,6 +8,9 @@ images:
 tags: ["business", "christmas", "fun", "technology", "this happened to me", "wealth"]
 thumbnail: "/featured-elf-on-a-shelf.webp"
 ---
+- Elfred Videos
+  - [Tik Tok](https://wlr.link/elfred-tik-tok)
+  - [YouTube](https://wlr.link/elfred-youtube)
 
 ## Chapter One: A Holiday Wish
 
@@ -59,12 +62,13 @@ In the sleepy little hamlet of Evergreen, one family’s little Christmas wish b
 *The Johnson family finds out in the touching story of Elfred and the Shelf that the real magic of Christmas isn’t in the material things but in the love and happiness shared by everyone. Elfred the Elf teaches Emma and Jack that the best presents are made with the people we love while spreading joy and magic around their house.*
 
 ---
+- Visit [amazon.com](https://wlr.link/elf-on-a-shelf) to purchase your very own Elf on the Shelf for the kids if one hasn’t already shown up from the North Pole.  Need [stocking stuffers](https://wlr.link/stockingstuffers) or [last minutes deals](https://wlr.link/last-min-deals) for the holiday?
 
-> Credit: featured photo by [Nik](https://unsplash.com/@helloimnik?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/photos/a-red-elf-doll-sitting-on-top-of-a-table-8PfSWcJ4hZw)
+- **Credit**: featured photo by [Nik](https://unsplash.com/@helloimnik?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/photos/a-red-elf-doll-sitting-on-top-of-a-table-8PfSWcJ4hZw)
 
-> Visit [amazon.com](https://wlr.link/elf-on-a-shelf) to purchase your very own Elf on the Shelf for the kids if one hasn’t already shown up from the North Pole.  Need [stocking stuffers](https://wlr.link/stockingstuffers) or [last minutes deals](https://wlr.link/last-min-deals) for the holiday?
+- Link Tree: [wlr.link/m/bio](https://wlr.link/m/bio)
 
-*Your support on ‘[Buy Me a Coffee](https://wlr.link/buy-me-a-coffee)’ fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
+- *Your support on ‘[Buy Me a Coffee](https://wlr.link/buy-me-a-coffee)’ fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
 
 ![Buy me a coffee!](/coffee.png)
 
