@@ -6,7 +6,7 @@ description:
 keywords: ["about-us", "about-hugo", "contact", "welcome-rain", "health", "wealth", "relationships"]
 type: about
 images:
-  - cool.gif
+  - export.webp
 tags: ["business"]
 thumbnail: "/cool.gif"
 ---
