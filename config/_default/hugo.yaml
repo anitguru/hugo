@@ -100,7 +100,7 @@ params:
     twitter: welcomerainpub
   description: Text about my cool site
   images:
-    - site-feature-image.jpg
+    - base_icon_transparent_background.png
   searchKeys: ["tags", "date", "categories", "summary", "content", "link", "author"]
   copyright: "Copyright © 2024 - Welcome Rain · All rights reserved"
   favicon: "/black_icon_transparent_background.png"
