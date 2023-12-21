@@ -20,6 +20,7 @@ languages:
       introSubtitle: "Enhancing Health, Wealth, & Relationships — A Journey of Empowerment"
       introPhoto: "/leavesgreen.jpg"
       logo: "/base_icon_transparent_background.png"
+      thumbnail: "/wlr_link_m_bio.png"
     menu:
       main:
         - name: "Home"
@@ -131,6 +132,8 @@ params:
           url: "https://wlr.link/welcome-rain-twitter"
         - website: "tiktok"
           url: "https://wlr.link/tiktok"
+        - website: "youtube"
+          url: "https://wlr.link/youtube"
         - website: "instagram"
           url: "https://wlr.link/instagram"
         - website: "facebook"

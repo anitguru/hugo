@@ -11,6 +11,9 @@ tags: ["business"]
 thumbnail: "/cool.gif"
 ---
 
+![wlr](/wlr_link_m_bio.png)
+*[wlr.link/m/bio](wlr.link/m/bio)*
+
 **Step into Welcome Rain**: A Comprehensive Resource for Optimal Health, Smart Money Management, and Deep Connections.
 
 At Welcome Rain, caring for every part of life can have a transformative effect. Our blog is a gold mine of knowledge, advice, and inspiration meant to support you in living a healthy, happy life.
