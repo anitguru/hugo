@@ -2,9 +2,9 @@
 author: "Steve VanAllen"
 date: 2023-12-21T22:15:36-05:00
 title: 'The Last Minute Lifesaver: Why Amazon Gift Cards are Your Holiday Hero'
-description: ""
+description: "Just a few days till Christmas, and you could be faced with the unpleasant task of doing your shopping at the last minute.  Consider this one if you're looking for a humorous and convincing argument for why these technological treats should be your top holiday gifts."
 images:
-  - giftcard1-twitter-card-800-418.png
+  - giftcard1-twitter-card-800-418.webp
 thumbnail: "/giftcard1.png"
 draft: false
 ---
