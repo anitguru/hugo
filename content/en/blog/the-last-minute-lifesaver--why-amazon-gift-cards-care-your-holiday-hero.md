@@ -5,7 +5,7 @@ title: 'The Last Minute Lifesaver: Why Amazon Gift Cards are Your Holiday Hero'
 description: ""
 images:
   - giftcards2.png
-thumbnail: "/giftcards1.png"
+thumbnail: "/giftcard1-twitter-card-800-418.png"
 draft: false
 ---
 
