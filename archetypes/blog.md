@@ -6,6 +6,7 @@ description: ""
 images:
   - animation_pulse_Contrast_n89l8r8jf.gif
 thumbnail: "/customcolor_logo_customcolor_background.png"
+tags: ["business", "christmas", "fun", "technology", "this happened to me", "wealth"]
 draft: false
 ---
 
