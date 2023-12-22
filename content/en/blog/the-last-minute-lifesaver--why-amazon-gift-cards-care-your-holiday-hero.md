@@ -4,8 +4,8 @@ date: 2023-12-21T22:15:36-05:00
 title: 'The Last Minute Lifesaver: Why Amazon Gift Cards are Your Holiday Hero'
 description: ""
 images:
-  - giftcards2.png
-thumbnail: "/giftcard1-twitter-card-800-418.png"
+  - giftcard1-twitter-card-800-418.png
+thumbnail: "/giftcard1.png"
 draft: false
 ---
 
@@ -34,7 +34,7 @@ Imagine a world without boxes, wrapping paper, and those pesky ribbons that won'
 
 ## 5. Adopt a Last-Minute Approach: Calling All Procrastinators!
 
-![procrastinators](/giftcards2.png)
+![procrastinators](/giftcard2.png)
 
 Thankfully, the Amazon gift card is a lifesaver for all those people who put things off till the last minute. It's the ideal remedy for when you'd rather relax with some holiday flicks and eggnog than get down to the serious business of gift-giving.
 
