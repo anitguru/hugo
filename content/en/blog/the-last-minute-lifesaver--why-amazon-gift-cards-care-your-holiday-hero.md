@@ -1,7 +1,7 @@
 ---
 author: "Steve VanAllen"
 date: 2023-12-21T22:15:36-05:00
-title: 'The Last Minute Lifesaver: Why Amazon Gift Cards Care Your Holiday Hero'
+title: 'The Last Minute Lifesaver: Why Amazon Gift Cards are Your Holiday Hero'
 description: ""
 images:
   - animation_pulse_Contrast_n89l8r8jf.gif
