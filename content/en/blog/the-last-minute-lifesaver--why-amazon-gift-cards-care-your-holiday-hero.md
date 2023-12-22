@@ -33,7 +33,9 @@ Imagine a world without boxes, wrapping paper, and those pesky ribbons that won'
 
 ## 5. Adopt a Last-Minute Approach: Calling All Procrastinators!
 
-Finally, the Amazon gift card is a lifesaver for all those people who put things off till the last minute. It's the ideal remedy for when you'd rather relax with some holiday flicks and eggnog than get down to the serious business of gift-giving.
+![procrastinators](/giftcards2.png)
+
+Thankfully, the Amazon gift card is a lifesaver for all those people who put things off till the last minute. It's the ideal remedy for when you'd rather relax with some holiday flicks and eggnog than get down to the serious business of gift-giving.
 
 Finally, if you're stuck this holiday season, remember that Amazon gift cards are more than simply a last-minute solution; they're an environmentally conscious, compassionate, and adaptable method to spread holiday joy. Please take advantage of the ease; perhaps you will be more organized next year. On the other hand, we will likely revisit this topic in December. I hope you have a wonderful holiday season.
 
