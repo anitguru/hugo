@@ -7,7 +7,7 @@ tags: ["business"]
 thumbnail: "/meeting.webp"
 ---
 
-Jim Collins’s pioneering book “[Good to Great](https://wlr.link/good-to-great-audio): Why Some Companies Make the Leap…And Others Don’t” is a classic in the business literature genre. The book, released in 2001, examines what sets truly remarkable businesses apart from their passably good competitors. Collins and his research team conducted an extensive study over several years to pinpoint the traits and approaches that helped some companies achieve long-term success. We will examine the main ideas and conclusions of “Good to Great” in this 2,000-word synopsis.
+Jim Collins’s pioneering book “[Good to Great](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS?nodl=1&crid=6THEGVHWJHOV&keywords=good+to+great+by+jim+collins&qid=1701152732&sprefix=good+to+great%2Caps%2C86&sr=8-1&linkCode=ll1&tag=stevesbookr07-20&linkId=7ca0484a9ffb9473ed5fe5936f4a492b&ref_=as_li_ss_tl&dplnkId=ed984a16-2c67-4f3f-a0e8-38ec19924b35): Why Some Companies Make the Leap…And Others Don’t” is a classic in the business literature genre. The book, released in 2001, examines what sets truly remarkable businesses apart from their passably good competitors. Collins and his research team conducted an extensive study over several years to pinpoint the traits and approaches that helped some companies achieve long-term success. We will examine the main ideas and conclusions of “Good to Great” in this 2,000-word synopsis.
 
 ## Preface
 
