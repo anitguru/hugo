@@ -18,7 +18,7 @@ A seemingly ordinary family with a fantastical Christmas wish lived in the pictu
 
 The kids’ excitement level rose in the days leading up to Christmas. Particularly enthusiastic was Emma, the eldest.
 
-> Please, Mom and Dad, wouldn’t it be possible for us to purchase an [Elf on the Shelf](https://www.amazon.com/stores/TheElfontheShelf/Homepage/page/CE0E9E77-047D-4224-8475-C7A201D51709?linkCode=ll2&tag=stevesbookr07-20&linkId=b8d9ab0139514e334fea88d4b665ac86&language=en_US&ref_=as_li_ss_tl&utm_source=medium&utm_medium=blog&utm_campaign=ongoing)?” she begged one cold night, her eyes longing. “The holiday season is almost here!
+> Please, Mom and Dad, wouldn’t it be possible for us to purchase an [Elf on the Shelf](https://amzn.to/3RTzAky)?” she begged one cold night, her eyes longing. “The holiday season is almost here!
 
 Both of her parents grinned and gave each other knowing looks. “Beloved, elves have the power to choose their own homes,” her father tenderly emphasized. “The North Pole sends them on a mission to discover the most jolly family.”
 
@@ -62,7 +62,7 @@ In the sleepy little hamlet of Evergreen, one family’s little Christmas wish b
 *The Johnson family finds out in the touching story of Elfred and the Shelf that the real magic of Christmas isn’t in the material things but in the love and happiness shared by everyone. Elfred the Elf teaches Emma and Jack that the best presents are made with the people we love while spreading joy and magic around their house.*
 
 ---
-- Visit [amazon.com](https://www.amazon.com/stores/TheElfontheShelf/Homepage/page/CE0E9E77-047D-4224-8475-C7A201D51709?linkCode=ll2&tag=stevesbookr07-20&linkId=b8d9ab0139514e334fea88d4b665ac86&language=en_US&ref_=as_li_ss_tl&utm_source=medium&utm_medium=blog&utm_campaign=ongoing) to purchase your very own Elf on the Shelf for the kids if one hasn’t already shown up from the North Pole.  Need [stocking stuffers](https://www.amazon.com/gcx/Stocking-stuffers/gfhz/events?categoryId=HOL-Stocking-gifts&scrollState=eyJpdGVtSW5kZXgiOjAsInNjcm9sbE9mZnNldCI6NDcwLjUzMTI1fQ%3D%3D&sectionManagerState=eyJzZWN0aW9uVHlwZUVuZEluZGV4Ijp7ImFtYWJvdCI6MH19&linkCode=ll2&tag=stevesbookr07-20&linkId=0e8408d1af64ed2235aae19c3f21c48a&language=en_US&ref_=as_li_ss_tl) or [last minutes deals](https://www.amazon.com/gcx/Holiday-Deals/gfhz/events?categoryId=HOL-Deals&isLimitedTimeOffer=true&scrollState=eyJpdGVtSW5kZXgiOjAsInNjcm9sbE9mZnNldCI6LTM4My40Njg3NX0%3D&sectionManagerState=eyJzZWN0aW9uVHlwZUVuZEluZGV4Ijp7ImFtYWJvdCI6MH19&linkCode=ll2&tag=stevesbookr07-20&linkId=94505f20c6158e47b6af39a6d5d24f2f&language=en_US&ref_=as_li_ss_tl) for the holiday?
+- Visit [amazon.com](https://amzn.to/3RTzAky) to purchase your very own Elf on the Shelf for the kids if one hasn’t already shown up from the North Pole.  Need [stocking stuffers](https://amzn.to/41QnTih) or [last minutes deals](https://amzn.to/41C5h5k) for the holiday?
 
 - **Credit**: featured photo by [Nik](https://unsplash.com/@helloimnik?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/photos/a-red-elf-doll-sitting-on-top-of-a-table-8PfSWcJ4hZw)
 
