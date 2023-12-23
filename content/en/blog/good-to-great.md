@@ -93,7 +93,7 @@ Jim Collins’ book “Good to Great” thoroughly examines what it takes for bu
 
 ---
 
-> Visit [audible.com](https://wlr.link/good-to-great-audio) to listen to the audiobook for FREE or get the [Kindle version](https://wlr.link/good-to-great-ebook) for only **50 cents**! The [hardcover](https://wlr.link/good-to-great-hardcover) makes a great gift.
+> Visit [audible](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS?nodl=1&crid=6THEGVHWJHOV&keywords=good+to+great+by+jim+collins&qid=1701152732&sprefix=good+to+great%2Caps%2C86&sr=8-1&linkCode=ll1&tag=stevesbookr07-20&linkId=7ca0484a9ffb9473ed5fe5936f4a492b&ref_=as_li_ss_tl&dplnkId=ed984a16-2c67-4f3f-a0e8-38ec19924b35) to listen to the audiobook for FREE or get the [Kindle version](https://wlr.link/good-to-great-ebook) for only **50 cents**! The [hardcover](https://wlr.link/good-to-great-hardcover) makes a great gift.
 
 
 *Your support on ‘[Buy Me a Coffee](https://wlr.link/buy-me-a-coffee)’ fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
