@@ -11,7 +11,7 @@ thumbnail: "/winning.webp"
 
 With the launch of the "[Friend of Medium](https://blog.medium.com/become-a-friend-of-medium-dd2fa7bf16c3)" campaign, digital content development and consumption have advanced recently. I was immediately fascinated by Medium's announcement of this new membership tier because I love reading and writing. This is an additional financial support program for writers; the cost is higher than that of a Medium membership. Its straightforward but effective tenet is that readers can directly increase the revenue of their favorite writers by joining up and contributing more. 
 
-The "Friend of Medium" program attracted me because I believe Medium offers a lot of interesting and thought-provoking content, and I want to do more to help the creative minds that create these compelling stories. For someone who appreciates the power of the written word and community engagement, this program looks like the natural next step because it helps to establish a livelier and more dynamic literary culture on Medium.  In addition, individuals who are interested in [earning money from blogging](https://www.amazon.com/How-Blog-Profit-Without-Selling/dp/B083LC24HL?crid=2K1CEJ8PK7LRY&keywords=How+to+Blog+for+Profit+Without+Selling+Your+Soul&qid=1702685084&sprefix=how+to+blog+for+profit+without+selling+your+soul,aps,117&sr=8-1&linkCode=ll1&tag=stevesbookr07-20&linkId=ef0ad0f4dd1130b1f75c26737ea582bb&language=en_US&ref_=as_li_ss_tl&utm_source=welcomerain.pub&utm_medium=blog&utm_campaign=ongoing) could benefit greatly from the Friends of Medium program as more people sign up for it. 
+The "Friend of Medium" program attracted me because I believe Medium offers a lot of interesting and thought-provoking content, and I want to do more to help the creative minds that create these compelling stories. For someone who appreciates the power of the written word and community engagement, this program looks like the natural next step because it helps to establish a livelier and more dynamic literary culture on Medium.  In addition, individuals who are interested in [earning money from blogging](https://amzn.to/3GTlcTe) could benefit greatly from the Friends of Medium program as more people sign up for it. 
 
 ## A Synopsis of the Medium Friends Initiative
 
@@ -89,7 +89,7 @@ Remember that the 'Friend of Medium' program is not just a membership service; i
 
 ---
 
-> Visit [audible.com](https://www.amazon.com/How-Blog-Profit-Without-Selling/dp/B083LC24HL?crid=2K1CEJ8PK7LRY&keywords=How+to+Blog+for+Profit+Without+Selling+Your+Soul&qid=1702685084&sprefix=how+to+blog+for+profit+without+selling+your+soul,aps,117&sr=8-1&linkCode=ll1&tag=stevesbookr07-20&linkId=ef0ad0f4dd1130b1f75c26737ea582bb&language=en_US&ref_=as_li_ss_tl&utm_source=welcomerain.pub&utm_medium=blog&utm_campaign=ongoing) to listen to the audiobook for FREE.
+> Visit [audible.com](https://amzn.to/3GWQmJk) to listen to the audiobook for FREE.
 
 *Your support on ‘[Buy Me a Coffee](https://wlr.link/buy-me-a-coffee)’ fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
 

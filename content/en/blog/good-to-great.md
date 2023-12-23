@@ -7,7 +7,7 @@ tags: ["business"]
 thumbnail: "/meeting.webp"
 ---
 
-Jim Collins’s pioneering book “[Good to Great](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS?nodl=1&crid=6THEGVHWJHOV&keywords=good+to+great+by+jim+collins&qid=1701152732&sprefix=good+to+great%2Caps%2C86&sr=8-1&linkCode=ll1&tag=stevesbookr07-20&linkId=7ca0484a9ffb9473ed5fe5936f4a492b&ref_=as_li_ss_tl&dplnkId=ed984a16-2c67-4f3f-a0e8-38ec19924b35): Why Some Companies Make the Leap…And Others Don’t” is a classic in the business literature genre. The book, released in 2001, examines what sets truly remarkable businesses apart from their passably good competitors. Collins and his research team conducted an extensive study over several years to pinpoint the traits and approaches that helped some companies achieve long-term success. We will examine the main ideas and conclusions of “Good to Great” in this 2,000-word synopsis.
+Jim Collins’s pioneering book “[Good to Great](https://amzn.to/476vcDr): Why Some Companies Make the Leap…And Others Don’t” is a classic in the business literature genre. The book, released in 2001, examines what sets truly remarkable businesses apart from their passably good competitors. Collins and his research team conducted an extensive study over several years to pinpoint the traits and approaches that helped some companies achieve long-term success. We will examine the main ideas and conclusions of “Good to Great” in this 2,000-word synopsis.
 
 ## Preface
 
@@ -19,7 +19,7 @@ Jim Collins asks a fundamental question in the first chapter of “Good to Great
 
 A crucial idea presented early in the book is the “Hedgehog Concept.” Collins gets his inspiration from Isaiah Berlin’s well-known essay “The Hedgehog and the Fox,” which examines the notion that the fox is a multi-talented learner. At the same time, the hedgehog is only aware of one major item. Within the business realm, the hedgehog concept stands for the fundamental notion that exceptional organizations thoroughly comprehend their competitive advantages, absolute values, and what motivates them.
 
-> [Gain access to this book completely free of charge.](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS?nodl=1&crid=6THEGVHWJHOV&keywords=good+to+great+by+jim+collins&qid=1701152732&sprefix=good+to+great%2Caps%2C86&sr=8-1&linkCode=ll1&tag=stevesbookr07-20&linkId=7ca0484a9ffb9473ed5fe5936f4a492b&ref_=as_li_ss_tl&dplnkId=ed984a16-2c67-4f3f-a0e8-38ec19924b35)
+> [Gain access to this book completely free of charge.](https://amzn.to/47gu0gC)
 
 1. What You Are Most Capable of: Prominent businesses pinpoint one specific field or sector where they can thrive. This calls for a sober evaluation of their advantages and disadvantages. Collins highlights that the key is concentrating on what is feasible given their particular circumstances rather than establishing lofty objectives.
 
@@ -93,7 +93,7 @@ Jim Collins’ book “Good to Great” thoroughly examines what it takes for bu
 
 ---
 
-> Visit [audible](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS?nodl=1&crid=6THEGVHWJHOV&keywords=good+to+great+by+jim+collins&qid=1701152732&sprefix=good+to+great%2Caps%2C86&sr=8-1&linkCode=ll1&tag=stevesbookr07-20&linkId=7ca0484a9ffb9473ed5fe5936f4a492b&ref_=as_li_ss_tl&dplnkId=ed984a16-2c67-4f3f-a0e8-38ec19924b35) to listen to the audiobook for FREE.
+> Visit [audible](https://amzn.to/47gu0gC) to listen to the audiobook for FREE.
 
 *Your support on ‘[Buy Me a Coffee](https://wlr.link/buy-me-a-coffee)’ fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
 
