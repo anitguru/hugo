@@ -10,7 +10,7 @@ tags: ["business", "christmas", "fun", "technology", "this happened to me", "wea
 draft: false
 ---
 
-- **Link Tree**: [wlr.link/m/bio](https://wlr.link/m/bio)
+- **Link Tree**: [wlr.link/m/bio](https://linktr.ee/welcomerain)
 - **Disclosure**: *As an Amazon Affiliate, Welcome Rain earns from qualifying purchases.*
 
 Just a few days till Christmas, and you could be faced with the unpleasant task of doing your shopping at the last minute. The [Amazon Gift Card](https://www.amazon.com/b?node=2238192011&pd_rd_w=FqTVJ&content-id=amzn1.sym.34adf32e-f750-4f70-b3a6-8f019e8c4ce4%3Aamzn1.sym.34adf32e-f750-4f70-b3a6-8f019e8c4ce4&pf_rd_p=34adf32e-f750-4f70-b3a6-8f019e8c4ce4&pf_rd_r=12Y3WSGANEC910XEEFPV&pd_rd_wg=4IxSM&pd_rd_r=6de2aa97-b0f0-4810-851b-eed20a77916a&qid=1703208222&c_c=-977885523&linkCode=ll2&tag=stevesbookr07-20&linkId=f59dca9848d37ce0a59b707fa7c1afe7&language=en_US&ref_=as_li_ss_tl) saves the day if you're worried about finding the perfect present. Consider this one if you're looking for a humorous and convincing argument for why these technological treats should be your top holiday gifts.
