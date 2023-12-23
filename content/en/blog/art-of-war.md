@@ -11,13 +11,13 @@ thumbnail: "/art-of-war-cover.webp"
 
 ## Overview
 
-The ancient Chinese book “[The Art of War](https://www.amazon.com/The-Art-of-War-Sun-Tzu-audiobook/dp/B01MQSRAMM?crid=2UFAEO9GZIYXE&keywords=art+of+war+audio+book&qid=1701655629&s=books&sprefix=art+of+war+audi,stripbooks,88&sr=1-1&linkCode=ll1&tag=stevesbookr07-20&linkId=ea07cb7b14e16365bcb490ad2606ee99&language=en_US&ref_=as_li_ss_tl)” by Sun Tzu goes well beyond [military tactics](https://www.amazon.com/Art-War-Deluxe-Hardbound-ebook/dp/B0BS1T4DC5?_encoding=UTF8&qid=1701655629&sr=1-1&linkCode=ll1&tag=stevesbookr07-20&linkId=53f3ba5462bda4bf6c239f601f9c9bfc&language=en_US&ref_=as_li_ss_tl). Written in the fifth century BC, it has thirteen chapters that analyze different facets of fighting. Surprisingly, its ideas are now fundamental to contemporary leadership and corporate tactics. The work prioritizes intelligence over force and places a great emphasis on strategic superiority—a concept that applies to contemporary business operations.
+The ancient Chinese book “[The Art of War](https://amzn.to/47d7Wn2)” by Sun Tzu goes well beyond [military tactics](https://amzn.to/3RUawde). Written in the fifth century BC, it has thirteen chapters that analyze different facets of fighting. Surprisingly, its ideas are now fundamental to contemporary leadership and corporate tactics. The work prioritizes intelligence over force and places a great emphasis on strategic superiority—a concept that applies to contemporary business operations.
 
 Sun Tzu’s wisdom is relevant in many areas, but especially in business, where effective resource management, competitive analysis, and strategic planning are essential. His lessons on adjusting to shifting conditions, building on advantages, and assessing the competition have impacted contemporary company strategies and decision-making procedures.
 
 In line with contemporary corporate objectives of optimizing outcomes with the least amount of resources, the text also emphasizes the significance of accomplishing goals effectively. This approach to effective dispute resolution and strategic foresight is especially pertinent in the fast-paced, cutthroat economic world of today.
 
-*[Gain access to this book completely FREE of charge](https://www.amazon.com/The-Art-of-War-Sun-Tzu-audiobook/dp/B01MQSRAMM?crid=2UFAEO9GZIYXE&keywords=art+of+war+audio+book&qid=1701655629&s=books&sprefix=art+of+war+audi,stripbooks,88&sr=1-1&linkCode=ll1&tag=stevesbookr07-20&linkId=ea07cb7b14e16365bcb490ad2606ee99&language=en_US&ref_=as_li_ss_tl)*
+*[Gain access to this book completely FREE of charge](https://amzn.to/3trD3xz)*
 
 “The Art of War” is essentially a manual for strategic thinking that provides ageless guidance on negotiating challenging competitive environments. As such, it is an indispensable tool for today’s business executives and strategists.
 
@@ -83,7 +83,7 @@ Keep in mind that working smarter, not harder, is more important in the corporat
 
 ---
 
-> Visit [audible.com](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS?crid=6THEGVHWJHOV&keywords=good+to+great+by+jim+collins&qid=1701152732&sprefix=good+to+great,aps,86&sr=8-1&linkCode=ll1&tag=stevesbookr07-20&linkId=7ca0484a9ffb9473ed5fe5936f4a492b&language=en_US&ref_=as_li_ss_tl) to listen to the audiobook for FREE.
+> Visit [audible.com](https://amzn.to/48b0bzh) to listen to the audiobook for FREE.
 
 *Your support on ‘[Buy Me a Coffee](https://wlr.link/buy-me-a-coffee)’ fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
 
