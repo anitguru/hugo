@@ -12,7 +12,7 @@ thumbnail: "/cool.gif"
 ---
 
 ![wlr](/wlr_link_m_bio.png)
-*[wlr.link/m/bio](wlr.link/m/bio)*
+*[wlr.link/m/bio](https://wlr.link/m/bio)*
 
 **Step into Welcome Rain**: A Comprehensive Resource for Optimal Health, Smart Money Management, and Deep Connections.
 
