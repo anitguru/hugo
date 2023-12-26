@@ -5,7 +5,7 @@ title: 'A Warm Greeting from the Jonathan Y Pagoda Lantern: A Touch of Elegance'
 description: ""
 images:
   - light-fixure-twitter-card-800-418.png
-thumbnail: "/light-fixure-featured-image.png"
+thumbnail: "/light-fixure-house.jpg"
 tags: ["business", "christmas", "fun", "technology", "this happened to me", "wealth"]
 draft: false
 ---
@@ -14,7 +14,7 @@ draft: false
 
 - **Support Us:** As an Amazon Affiliate, we earn from qualifying purchases at no extra cost to you. Shop our favorite dining light fixure [HERE.](https://amzn.to/4azuvVR)
 
-- **Image Credits:** Featured image is AI-generated, and product images are from Amazon.
+- **Image Credits:** Featured image is from our home, and product images are from Amazon.
 
 - **Stay Updated:** Subscribe to our newsletter for the latest in home decor.
 
