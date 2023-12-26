@@ -12,7 +12,8 @@ draft: false
 
 - **Linktree**: [linktr.ee/welcomerain](https://linktr.ee/welcomerain)
 - **Disclosure**: *As an Amazon Affiliate, Welcome Rain earns from qualifying purchases.*
-- **Featured Product Link**: https://amzn.to/4azuvVR 
+- **Credit**: *Featured image for this article generated with AI using human currated prompts and in-line images are from the Amazon product page*
+- **Featured Product Link**: https://amzn.to/4azuvVR
 
 ## It's about the details
 
