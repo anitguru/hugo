@@ -99,4 +99,4 @@ Just like rain nurtures the environment, the JONATHAN Y Pagoda Lantern may provi
 ## Thank you
 
 - *Need post-holiday giftcards for "Friends-MAS?"  Click [HERE](https://welcomerain.pub/en/blog/last-minute-shopping-lifesaver/#thank-you)!*
-- *Your KoFi donation fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
+- *Your [KoFi donation](https://ko-fi.com/welcomerain) fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
