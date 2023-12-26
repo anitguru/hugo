@@ -10,10 +10,15 @@ tags: ["business", "christmas", "fun", "technology", "this happened to me", "wea
 draft: false
 ---
 
-- **Linktree**: [linktr.ee/welcomerain](https://linktr.ee/welcomerain)
-- **Disclosure**: *As an Amazon Affiliate, Welcome Rain earns from qualifying purchases.*
-- **Credit**: *Featured image for this article generated with AI using human currated prompts and in-line images are from the Amazon product page*
-- **Featured Product Link**: https://amzn.to/4azuvVR
+- **Explore More:** Visit our Linktree [linktr.ee/welcomerain](linktr.ee/welcomerain) for resources and social updates.
+
+- **Support Us:** As an Amazon Affiliate, we earn from qualifying purchases at no extra cost to you. Shop our favorite dining light fixure [HERE.](https://amzn.to/4azuvVR)
+
+- **Image Credits:** Featured image is AI-generated, and product images are from Amazon.
+
+- **Stay Updated:** Subscribe to our newsletter for the latest in home decor.
+
+- **Join Our Community:** Follow us for daily inspiration and tips on stylish living.
 
 ## It's about the details
 
