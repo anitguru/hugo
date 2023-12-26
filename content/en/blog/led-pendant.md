@@ -48,7 +48,7 @@ The Pagoda Lantern is an eye-catching centerpiece that deftly blends into its su
 
 Just like rain nurtures the environment, the JONATHAN Y Pagoda Lantern may provide a touch of beauty and grace to your house by illuminating it.
 
----
+## Thank you for viewing our blog!!
 
 - *Need post-holiday giftcards for "Friends-MAS?"  Click [HERE](https://welcomerain.pub/en/blog/last-minute-shopping-lifesaver/)!*
 - *Your KoFi donation fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
