@@ -48,6 +48,9 @@ The Pagoda Lantern is an eye-catching centerpiece that deftly blends into its su
 
 Just like rain nurtures the environment, the JONATHAN Y Pagoda Lantern may provide a touch of beauty and grace to your house by illuminating it.
 
+---
+
+
 ### FAQ: JONATHAN Y JYL7439A Pagoda Lantern LED Pendant
 
 **1. What style is the JONATHAN Y Pagoda Lantern?**
@@ -86,7 +89,9 @@ Just like rain nurtures the environment, the JONATHAN Y Pagoda Lantern may provi
 **12. Can the Pagoda Lantern be used in commercial settings?**
    - While primarily designed for home use, its classic design and quality construction make it suitable for select commercial environments as well.
 
-### For more information and to purchase the JONATHAN Y Pagoda Lantern, visit our product page today. Illuminate your space with elegance and style!
+> For more information and to purchase the JONATHAN Y Pagoda Lantern, visit the [product page](https://amzn.to/4azuvVR) at Amazon today. Illuminate your space with elegance and style!
+
+---
 
 ## Thank you
 
