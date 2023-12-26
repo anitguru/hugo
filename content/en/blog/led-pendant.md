@@ -18,6 +18,8 @@ draft: false
 
 In the same way that a gentle rain provides life to a dry region, the correct lighting may do the same for a room. Regarding home décor, lighting is more than a practical need; it's also an opportunity to express one's style and create an atmosphere. Introducing the [JONATHAN Y JYL7439A Pagoda Lantern](https://amzn.to/4azuvVR), a shining example of timeless beauty and contemporary utility, ready to perfectly balance the two to your home.
 
+![image](/light-fixture-main.jpg)
+
 ## A Hint of Timeless Elegance
 
 A perfect illustration of how traditional style may coexist with modern furnishings is the Pagoda Lantern by JONATHAN Y. The elegance and grace of a bygone age are echoed in its oil-rubbed bronze finish, which gives off an air of classic beauty. This metal pendant lamp has a lantern shape that makes one think of old pagodas; it will provide a touch of mystery and traditional flair to any space.
@@ -32,9 +34,13 @@ Like all JONATHAN Y products, the Pagoda Lantern is of the highest quality. We p
 
 Nowadays, energy efficiency is seen as an absolute must, and the Pagoda Lantern is at the forefront of this movement. Including energy-efficient LED lights is a win for the planet and common sense. The lantern is beautiful and economical thanks to these bulbs, which last longer and use less energy than regular light bulbs.
 
+![image](/light-fixture-room.jpg)
+
 ## A Universally Appealing Design
 
 The adaptability of the Pagoda Lantern is its defining feature. This pendant will be the perfect addition, thanks to its flexible chain link, whether you have a small apartment or a large mansion. It would look great in any space that needs more class, like the kitchen, living room, dining room, bedroom, entryway, or hallway.
+
+![image](/light-fixture-white-room.jpg)
 
 ## The JONATHAN Y Promise to Satisfy
 
