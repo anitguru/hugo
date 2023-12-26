@@ -4,7 +4,7 @@ date: 2023-12-25T21:39:24-05:00
 title: 'A Warm Greeting from the Jonathan Y Pagoda Lantern: A Touch of Elegance'
 description: ""
 images:
-  - animation_pulse_Contrast_n89l8r8jf.gif
+  - light-fixure-twitter-card-800-418.png
 thumbnail: "/light-fixure-featured-image.png"
 tags: ["business", "christmas", "fun", "technology", "this happened to me", "wealth"]
 draft: false
