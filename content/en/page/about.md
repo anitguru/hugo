@@ -9,10 +9,10 @@ images:
   - export.webp
 tags: ["business"]
 thumbnail: "/cool.gif"
+noComment: true
 ---
 
-![wlr](/wlr_link_m_bio.png)
-*[wlr.link/m/bio](https://wlr.link/m/bio)*
+_Linktree: [linktr.ee/welcomerain](https://linktr.ee/welcomerain)_
 
 **Step into Welcome Rain**: A Comprehensive Resource for Optimal Health, Smart Money Management, and Deep Connections.
 
