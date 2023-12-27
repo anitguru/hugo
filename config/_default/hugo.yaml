@@ -10,6 +10,10 @@ enableRobotsTXT: true
 services:
   googleAnalytics:
     ID: G-SB346R14Y2
+sitemap:
+  changeFreq: "hourly"
+  filename: sitemap.xml
+  priority: -1
 languages:
   en:
     contentDir: "content/en" #English
