@@ -1,1 +1,1 @@
-User-agent: *
+../../static/robots.txt
