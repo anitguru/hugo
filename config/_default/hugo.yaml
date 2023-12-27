@@ -5,6 +5,7 @@ theme: "blist"
 DefaultContentLanguage: "en"
 DefaultContentLanguageInSubdir: true
 canonifyURLs: false
+enableRobotsTXT: true
 #disqusShortname: "welcomerain"
 services:
   googleAnalytics:
