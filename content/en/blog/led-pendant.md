@@ -2,7 +2,7 @@
 author: "Steve VanAllen"
 date: 2023-12-25T21:39:24-05:00
 title: 'A Warm Greeting from the Jonathan Y Pagoda Lantern: A Touch of Elegance'
-description: ""
+description: "Lighting is more than a practical need; it's also an opportunity to express one's style and create an atmosphere."
 images:
   - light-fixure-twitter-card-800-418.png
 thumbnail: "/light-fixure-house.jpg"
