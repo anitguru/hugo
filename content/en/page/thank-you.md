@@ -8,7 +8,7 @@ type: about
 images:
   - export.webp
 tags: ["thankyou", "thank-you"]
-thumbnail: "/cool.gif"
+thumbnail: "/thank-you.webp"
 noComment: true
 ---
 
