@@ -212,4 +212,4 @@ Indeed, Lean Startup's ideas have been instrumental in the growth and scaling of
 
 > ## Pay it forward
 > ### Enjoy the article?  
-> ### Like/Comment/Clap & consider _giving us a tip_ on [Ko-fi.](ko-fi.com/welcomerain)
+> ### Like/Comment/Clap & consider _giving us a tip_ on [Ko-fi.](https://ko-fi.com/welcomerain)
