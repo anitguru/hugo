@@ -14,7 +14,7 @@ draft: false
 
 - **Explore More:** Visit our [Linktree](https://linktr.ee/welcomerain) for resources and social updates.
 
-- **Support Us:** As an Amazon Affiliate, we earn from qualifying purchases at no extra cost to you.  Listen to the audio book for [FREE.](https://amzn.to/3TGUNQb)
+- **Support Us:** As an Amazon Affiliate, we earn from qualifying purchases at no extra cost to you.  Listen to the audiobook for [FREE.](https://amzn.to/3TGUNQb)
 
 - **Stay Updated:** Subscribe to our [newsletter](http://eepurl.com/iGVUjI) for more curated _health_, _wealth_, and _relationships_ content.
 
@@ -42,6 +42,8 @@ Validate learning aligns with the empirical, data-driven nature of the scientifi
 
 ## Minimum Viable Product
 
+![image](/lean-startup2.webp)
+
 The minimum viable product (MVP) is a central concept in the lean startup methodology. An MVP is a version of the product with just enough features to begin the learning process and validate assumptions. 
 
 The goal of an MVP is not to be a finished product. Rather, it allows entrepreneurs to start the process of learning as quickly as possible. By building an MVP, startups can put a product in front of customers and collect data on whether it solves real problems for real people.
@@ -60,7 +62,6 @@ Some key recommendations around MVPs:
 
 The lean startup philosophy encourages startups to resist elaborating anything beyond an MVP until rigorous proof is obtained that customers truly value that feature. By starting small but smart, companies can conserve resources and gain invaluable validated learning about their customers and markets.
 
-![image](/lean-startup2.webp)
 
 ## Innovation Accounting 
 
@@ -90,6 +91,8 @@ This learning loop ties directly back to validated learning. Startups must empir
 
 ## Actionable Metrics
 
+![image](/lean-startup3.webp)
+
 Metrics are an important part of the Lean Startup model. They should accurately measure your startup's progress towards business goals. Rather than vanity metrics like number of visitors or downloads, focus on actionable metrics tied to core value drivers.  
 
 For example, a SaaS company shouldn't just look at new signups. More important is activation rate, engagement over time, retention rate, revenue per customer, etc. Dig into behavioral cohorts to understand metrics by user segment. Prioritize instrumenting the customer lifecycle from acquisition to monetization. Make metrics accessible across the organization through dashboards and reporting.
@@ -100,7 +103,6 @@ Measure end results, not output. For example, self-reported satisfaction scores 
 
 Regularly review and refine your metrics based on what you learn. Be prepared to pivot if the current metrics are not driving favorable outcomes. Having the right actionable metrics is critical for making data-informed decisions and iterating your way to product/market fit.
 
-![image](/lean-startup3.webp)
 
 ## Split Testing
 
@@ -184,7 +186,7 @@ Eric Ries put forth a business concept called the Lean Startup Method. Quick pro
 #### 2. Eric Ries—who is he?
 The Lean Startup methodology was developed by author and entrepreneur Eric Ries. He wrote about how he used this method in his best-selling book "[The Lean Startup.](https://amzn.to/3TGUNQb)" He used it at his startup firms, like IMVU and Catalyst Consulting.
 
-#### 3. What Is an MVP?
+#### 3. What is an MVP?
 An MVP, or Minimum Viable Product, is a stripped-down version of a full-fledged product that focuses on the most critical aspects. During the early phases of product development, it rapidly collects user feedback and verifies assumptions.
 
 #### 4. The Build-Measure-Learn loop: how does it work?
