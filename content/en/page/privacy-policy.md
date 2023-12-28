@@ -10,6 +10,7 @@ images:
 tags: ["privacy-policy"]
 thumbnail: "/privacy-policy-image.png"
 noComment: true
+toc: true
 ---
 
 _Last Updated: 12-26-23_

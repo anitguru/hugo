@@ -14,6 +14,8 @@ sitemap:
   changeFreq: "hourly"
   filename: sitemap.xml
   priority: -1
+mailchimpFormUrl: "https://pub.us9.list-manage.com/subscribe/post?u=c6a3b1b80f1fe0b7286bae875&amp;id=d6f8ddc67a&amp;f_id=00b622e1f0"
+mailchimpFormKey: "b_c6a3b1b80f1fe0b7286bae875_d6f8ddc67a"
 languages:
   en:
     contentDir: "content/en" #English
