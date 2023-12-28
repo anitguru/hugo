@@ -37,7 +37,7 @@ languages:
           url: "blog"
           weight: 2
         - name: "Top Post"
-          url: "/en/blog/elfred/"
+          url: "/en/blog/friend-of-medium/"
           weight: 3
         - name: "Sign-up"
           url: "http://eepurl.com/iGVUjI"
