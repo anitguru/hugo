@@ -6,7 +6,7 @@ description: "Master Lean Startup for business launch: key concepts from Ries' b
 images:
   - lean-startup-twitter-card-800-418.webp
 thumbnail: "/lean-startup.webp"
-tags: ["Entrepreneurship", "Startup Strategy", "Business Innovation", "Product Development", "tAgile Methodology"]
+tags: ["Entrepreneurship", "Startup Strategy", "Business Innovation", "Product Development", "Agile Methodology"]
 draft: false
 ---
 
@@ -16,7 +16,7 @@ draft: false
 
 - **Support Us:** As an Amazon Affiliate, we earn from qualifying purchases at no extra cost to you.  Listen to the audio book for [FREE.](https://amzn.to/3TGUNQb)
 
-- **Stay Updated:** Subscribe to our newsletter from our [Linktree](https://linktr.ee/welcomerain) for more curated _health_, _wealth_, and _relationships_ content.
+- **Stay Updated:** Subscribe to our [newsletter](http://eepurl.com/iGVUjI) for more curated _health_, _wealth_, and _relationships_ content.
 
 ## Introduction
 

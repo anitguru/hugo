@@ -39,15 +39,18 @@ languages:
         - name: "Top Post"
           url: "/en/blog/elfred/"
           weight: 3
+        - name: "Sign-up"
+          url: "http://eepurl.com/iGVUjI"
+          weight: 4
         - name: "About"
           url: "page/about/"
-          weight: 4
+          weight: 5
         - name: "Tags"
           url: "tags"
-          weight: 5
+          weight: 6
         - name: "Privacy Policy"
           url: "page/privacy-policy"
-          weight: 6
+          weight: 7
   de:
     contentDir: "content/de" # Deutsch
     disabled: true
