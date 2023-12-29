@@ -4,8 +4,8 @@ date: 2023-12-27T20:01:24-05:00
 title: "From Idea to Launch: How to Use the Lean Startup Method to Rapidly Test and Iterate Your Way to Product-Market Fit"
 description: "Master Lean Startup for business launch: key concepts from Ries' book—MVP, validated learning, build-measure-learn—plus FAQs."
 images:
-  - lean-startup-twitter-card-800-418.webp
-thumbnail: "/lean-startup.webp"
+  - unicorn-rocket-twitter-card-800-418.webp 
+thumbnail: "/unicorn-rocket.webp"
 tags: ["Entrepreneurship", "Startup Strategy", "Business Innovation", "Product Development", "Agile Methodology"]
 draft: false
 ---
