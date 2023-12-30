@@ -2,12 +2,18 @@
 author: "Steve VanAllen"
 date: {{ .Date }}
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-description: ""
+ddescription: ""
 images:
-  - animation_pulse_Contrast_n89l8r8jf.gif
-thumbnail: "/customcolor_logo_customcolor_background.png"
-tags: ["business", "christmas", "fun", "technology", "this happened to me", "wealth"]
+  - 
+thumbnail: "/"
+tags: ["Health", "Wealth", "Relationships"]
 draft: false
 ---
 
-> Link-in-Bio (Link Tree): [wlr.link/m/bio](https://wlr.link/m/bio)
+- **Image Credits:** Images were created using Midjourney.
+
+- **Explore More:** Visit our [Linktree](https://linktr.ee/welcomerain) for resources and social updates.
+
+- **Support Us:** As an Amazon Affiliate, we earn from qualifying purchases at no extra cost to you.  Listen to the audiobook for [FREE.]()
+
+- **Stay Updated:** Subscribe to our [newsletter](http://eepurl.com/iGVUjI) for more curated _health_, _wealth_, and _relationships_ content.

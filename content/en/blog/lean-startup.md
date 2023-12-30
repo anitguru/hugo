@@ -218,4 +218,4 @@ Indeed, Lean Startup's ideas have been instrumental in the growth and scaling of
 
 ---
 
-_This article is also available at the [Welcome Rain Medium publication.](https://medium.welcomerain.pub/from-idea-to-launch-how-to-use-the-lean-startup-method-to-rapidly-test-and-iterate-your-way-to-3a46c2552d8c)_
+_This article is also available at the [Welcome Rain Medium publication.](https://medium.com/p/3a46c2552d8c)_
