@@ -210,12 +210,10 @@ In customer development, you talk to people who might buy your product to find o
 #### 10. Has the Lean Startup methodology produced any fruitful businesses?
 Indeed, Lean Startup's ideas have been instrumental in the growth and scaling of numerous successful firms, including Dropbox, Airbnb, and Zappos.
 
----
-
 > ## Pay it forward
-> ### Enjoy the article?  
-> ### Like/Comment/Clap & consider _giving us a tip_ on [Ko-fi.](https://ko-fi.com/welcomerain)
+> Enjoy the article?  
+> Like/Comment/Clap/Subscribe & consider _giving us a tip_ on [Ko-fi.](https://ko-fi.com/welcomerain)
 
 ---
 
-_This article is also available at the [Welcome Rain Medium publication.](https://medium.com/p/3a46c2552d8c)_
+_This [article](https://medium.com/p/3a46c2552d8c) is also available at the [Welcome Rain](https://medium.welcomerain.pub/) Medium publication._
