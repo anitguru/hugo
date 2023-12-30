@@ -104,3 +104,6 @@ A6: Yes, it's safe but requires cautious use. Our guide emphasizes testing the s
 ---
 
 _This article is also available at the [An IT Guru](https://medium.com/anitguru) Medium publication._
+
+_Gmail is a trademark of Google LLC. The Welcome Rain & An IT Guru publications are not affiliated with, endorsed by, or sponsored by Google LLC._
+
