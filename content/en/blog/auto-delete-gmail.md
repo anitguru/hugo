@@ -2,7 +2,7 @@
 author: "Steve VanAllen"
 date: 2023-12-30T16:55:27-05:00
 title: 'Keep Your Inbox Clutter-Free: Automate Email Deletion in Gmail'
-description: "Effortlessly & automatically delete Gmail emails with Google Apps Script through our simple   guide. Ideal for managing time-sensitive notifications like stock updates or GitHub alerts.  #EmailAutomation #GmailScripts"
+description: "Effortlessly & automatically delete Gmail emails with Google Apps Script through our simple   guide--Ideal for managing time-sensitive notifications like stock updates or GitHub alerts.  #EmailAutomation #GmailScripts"
 #images:
 #  - 
 thumbnail: "/auto-delete2.png"
