@@ -6,7 +6,7 @@ DefaultContentLanguage: "en"
 DefaultContentLanguageInSubdir: true
 canonifyURLs: false
 enableRobotsTXT: true
-#disqusShortname: "welcomerain"
+disqusShortname: "welcomerain"
 services:
   googleAnalytics:
     ID: G-SB346R14Y2
@@ -125,17 +125,17 @@ params:
   toc: true
   hidePageThumbnail: false
   comments:
-    system: "giscus"
-    repo: "anitguru/hugo"
-    repoid: "R_kgDOK4q08w"
-    category: "General"
-    categoryid: "DIC_kwDOK4q0884Cbxq3"
-    mapping: "title"
-    strict: "0"
-    reactionsenabled: "1"
-    emitmetadata: "0"
-    inputposition: "top"
-    theme: "preferred_color_scheme"
+    system: "disqus"
+    repo: ""
+    repoid: ""
+    category: ""
+    categoryid: ""
+    mapping: ""
+    strict: ""
+    reactionsenabled: ""
+    emitmetadata: ""
+    inputposition: ""
+    theme: ""
   homepage:
     social:
       title: "Follow Us"
