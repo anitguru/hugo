@@ -7,6 +7,7 @@ DefaultContentLanguageInSubdir: true
 canonifyURLs: false
 enableRobotsTXT: true
 disqusShortname: "welcomerain"
+paginate: 1
 services:
   googleAnalytics:
     ID: G-SB346R14Y2

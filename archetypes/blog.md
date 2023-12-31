@@ -2,7 +2,7 @@
 author: "Steve VanAllen"
 date: {{ .Date }}
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-ddescription: ""
+description: ""
 images:
   - 
 thumbnail: "/"
