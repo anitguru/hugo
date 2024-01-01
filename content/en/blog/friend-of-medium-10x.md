@@ -10,7 +10,7 @@ tags: ["Health", "Wealth", "Relationships"]
 draft: false
 ---
 
-- **Part 1:** [HERE.](https://welcomerain.pub/en/blog/friend-of-medium/)
+- **Part 1 (published on 12-16-23):** [HERE.](https://welcomerain.pub/en/blog/friend-of-medium/)
 
 - **Image Credits:** Images were created using Midjourney.
 
