@@ -16,7 +16,7 @@ draft: false
 
 - **Explore More:** Visit our [Linktree](https://linktr.ee/welcomerain) for resources and social updates.
 
-- **Support Us:** As an Amazon Affiliate, we earn from qualifying purchases at no extra cost to you.  Listen to an audiobook about earning money blogging for [FREE.](https://amzn.to/48zrcMI)
+- **Support Us:** As an Amazon Affiliate, we earn from qualifying purchases at no extra cost to you.  Listen to an audiobook that inspired us--for [FREE.](https://amzn.to/48zrcMI)
 
 - **Stay Updated:** Subscribe to our [newsletter](http://eepurl.com/iGVUjI) for more curated _health_, _wealth_, and _relationships_ content.
 
