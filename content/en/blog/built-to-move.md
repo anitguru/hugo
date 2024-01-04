@@ -2,7 +2,7 @@
 author: "Steve VanAllen"
 date: 2024-01-03T00:33:14-05:00
 title: 'The Mobility Blueprint: How Kelly and Juliet Starrett Will Get You Strong, Flexible, and Built to Move'
-description: "Mobility experts Kelly Starrett and Juliet Starrett share practical strategies for improving movement and reclaiming physical freedom in their new book 'Built to Move' - an essential guide for anyone looking to move better, feel better and discover their physical potential."
+description: "Mobility experts Kelly Starrett and Juliet Starrett share practical strategies for improving movement and reclaiming physical freedom in their new book 'Built to Move' - an essential guide for anyone looking to move better, feel better, and discover their physical potential."
 images:
   - 
 thumbnail: "/built-to-move1.png"
@@ -15,21 +15,21 @@ draft: false
 
 - **Explore More:** Visit our [Linktree](https://linktr.ee/welcomerain) for resources and social updates.
 
-- **Support Us:** As an Amazon Affiliate, we earn from qualifying purchases at no extra cost to you.  Listen to the audiobook that inspired us, for FREE: https://amzn.to/47gYmja
+- **Support Us:** As an Amazon Affiliate, we earn from qualifying purchases at no extra cost to you.  Listen to the audiobook that inspired us for FREE: https://amzn.to/47gYmja
 
 - **Stay Updated:** Subscribe to our [newsletter](http://eepurl.com/iGVUjI) for more curated _health_, _wealth_, and _relationships_ content.
 
-The authors, a physical therapist and a CrossFit gym owner, argue that humans were designed for constant movement, not prolonged sitting or limited ranges of motion.  
+The authors, a physical therapist, and a CrossFit gym owner argue that humans were designed for constant movement, not prolonged sitting or limited ranges of motion. 
 
-As a desk-bound writer, I was intrigued by the promise of discovering how to remedy the "sitting disease" that has tightened my hips, weakened my core, and led to daily aches and pains. The book opens with a sobering description of how drastically human movement patterns have changed over the last few centuries, leaving most of us immobilized and dysfunctional. However, the authors quickly pivot to solutions and a step-by-step mobility and alignment program to reawaken our inner athlete.  
+As a desk-bound writer, I was intrigued by the promise of discovering how to remedy the "sitting disease" that has tightened my hips, weakened my core, and led to daily aches and pains. The book opens with a sobering description of how drastically human movement patterns have changed over the last few centuries, leaving most of us immobilized and dysfunctional. However, the authors quickly pivoted to solutions and a step-by-step mobility and alignment program to awaken our inner athletes.
 
-If you spend your days slouched in front of screens, *built to move* may be just the wake-up call your body needs to get strong and supple again. The engaging style and practical advice kept me turning the pages - and even doing bodyweight squats during chapter breaks! Join the movement revolution and you'll move better, feel younger, and unlock your full human potential.
+If you spend your days slouched in front of screens, built to move may be just the wake-up call your body needs to get solid and supple again. The engaging style and practical advice kept me turning the pages--and even doing bodyweight squats during chapter breaks! Join the movement revolution, and you'll move better, feel younger, and unlock your full human potential.
 
 ## Humans are designed for movement  
 
 ![image](/built-to-move2.png)
 
-Humans have evolved to move frequently throughout the day. According to scientific research, our bodies and minds function optimally when we regularly move, walk, and exercise. Staying sedentary for prolonged periods can be detrimental to both physical and mental health.
+Humans have evolved to move frequently throughout the day. According to scientific research, our bodies and minds function optimally when we regularly move, walk, and exercise. Staying sedentary for prolonged periods can harm physical and mental health.
 
 ## Modern lifestyles limit natural movement  
 
@@ -37,15 +37,15 @@ Technology and modern conveniences have made our lives more sedentary. We sit fo
 
 ## Simple movements and exercises can counteract the effects  
 
-The authors argue that integrating natural movements and exercises into our daily routines can help remedy the problems caused by sedentary lifestyles. Even small adjustments like standing while working, walking during breaks, and doing bodyweight exercises a few times a week can have significant benefits for mobility, strength, and wellbeing.  
+The authors argue that integrating natural movements and exercises into our daily routines can help remedy the problems caused by sedentary lifestyles. Even minor adjustments like standing while working, walking during breaks, and doing bodyweight exercises a few times a week can significantly benefit mobility, strength, and well-being. 
 
 ## Movement should be a lifelong practice  
 
-Establishing good movement patterns and making exercise a habit early on is ideal. However, people of all ages and abilities can benefit from moving more and sitting less. The key is finding physical activities that you enjoy and will stick with long-term to maintain health and independence into old age.
+Establishing good movement patterns and making exercise a habit early on is ideal. However, people of all ages and abilities can benefit from moving more and sitting less. The key is finding physical activities you enjoy and will stick with long-term to maintain health and independence into old age.
 
 ## My Personal Take  
 
-Overall, based on the title “Built to Move” and its authors Kelly Starrett and Juliet Starrett, this seems like it would be an insightful book on human movement and mobility. The Starretts are leaders in the fitness and movement space, so I would expect a book full of practical advice and techniques for improving range of motion and physical capability.
+Overall, based on the title “Built to Move” and its authors, Kelly Starrett and Juliet Starrett, this seems like it would be an insightful book on human movement and mobility. The Starretts are leaders in the fitness and movement space, so I would expect a book full of practical advice and techniques for improving range of motion and physical capability.
 
 ### What I Would Like:  
 
@@ -55,8 +55,8 @@ Overall, based on the title “Built to Move” and its authors Kelly Starrett a
 
 ### What I Might Dislike:  
 
-* The content could potentially be too basic or rehash what the Starretts have covered in their previous books and resources.
-* There may be an overemphasis on certain techniques that don’t resonate or work for all readers.  
+* The content could potentially be too essential or rehash what the Starretts have covered in their previous books and resources.
+* There may be an overemphasis on specific techniques that don't resonate or work for all readers.  
 
 ### Passages That Could Resonate:   
 
@@ -71,7 +71,7 @@ Overall, based on the title “Built to Move” and its authors Kelly Starrett a
 
 ### My Opinion 
 
-Overall, I would expect “Built to Move” to be an inspiring call to action for readers to reclaim their physical potential and make movement a daily practice. The Starretts have dedicated their careers to helping people move and feel better, so a book from them on this topic would likely be full of valuable insights and advice. This seems like a book that could truly help readers transform their lives through the power of movement.
+Overall, I would expect “Built to Move” to be an inspiring call to action for readers to reclaim their physical potential and make movement a daily practice. The Starretts have dedicated their careers to helping people move and feel better, so a book from them on this topic would likely be full of valuable insights and advice. This seems like a book that could genuinely help readers transform their lives through the power of movement.
 
 ## Final Thoughts  
 
@@ -85,16 +85,16 @@ In conclusion, this book is a riveting page-turner that will stick with you long
 "Built to Move" is a fitness book authored by Kelly and Juliet Starrett. It's a deep dive into natural movement and mobility, offering a fresh perspective on physical wellness. The book is a resource for those looking to understand and improve their body's natural movements.
 
 ### Who Would Benefit from Reading "Built to Move"?
-This book is a great fit for just about anyone interested in enhancing their movement and mobility. Whether you're an athlete, someone who spends a lot of time at a desk, or just looking to improve your physical well-being, "Built to Move" has insights and practices that can help.
+This book is an excellent fit for just about anyone interested in enhancing their movement and mobility. Whether you're an athlete, spending a lot of time at a desk, or just looking to improve your physical well-being, "Built to Move" has insights and practices that can help.
 
 ### What Insights and Techniques Does the Book Offer?
 "Built to Move" is packed with practical techniques and exercises. It teaches how to restore natural movement, increase mobility and flexibility, and relieve pain. The book also focuses on enhancing overall performance, making it a valuable tool for anyone looking to improve their physical capabilities.
 
 ### What Types of Movements and Exercises Does the Book Cover?
-The book covers a variety of movements such as squatting, hinging, pushing, pulling, rotating, and walking. These foundational movements are paired with corrective exercises, emphasizing the use of minimal equipment to achieve maximum results.
+The book covers a variety of movements, such as squatting, hinging, pushing, pulling, rotating, and walking. These foundational movements are paired with corrective exercises, emphasizing the use of minimal equipment to achieve maximum results.
 
 ### How Can "Built to Move" Make a Difference in My Life?
-By applying the techniques from "Built to Move," you can experience a more effortless range of motion and reduced pain. The book aims to improve mobility, flexibility, and strength, ultimately enhancing your overall performance and reducing muscle and joint discomfort. The goal is to help readers achieve a healthier, more efficient body.
+By applying the techniques from "Built to Move," you can experience a more effortless range of motion and reduced pain. The book aims to improve mobility, flexibility, and strength, ultimately enhancing overall performance and reducing muscle and joint discomfort. The goal is to help readers achieve a healthier, more efficient body.
 
 > ## Pay It Forward 🌟
 > Enjoyed the article? 👍💬👏📥  
