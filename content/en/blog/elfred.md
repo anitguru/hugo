@@ -14,6 +14,8 @@ thumbnail: "/featured-elf-on-a-shelf.webp"
 
 ## Chapter One: A Holiday Wish
 
+{{< youtube 31a4nz2klak >}}
+
 A seemingly ordinary family with a fantastical Christmas wish lived in the picturesque village of Evergreen, surrounded by snow-capped hills and glistening streams. Emma and Jack, the Johnson children, were overjoyed to have an Elf on the Shelf visit their house for the holidays.
 
 The kids’ excitement level rose in the days leading up to Christmas. Particularly enthusiastic was Emma, the eldest.
