@@ -25,7 +25,7 @@ Medium's transition from clap-based monetization to a reading time-based model i
 
 ## The Significance of 50 Claps
 ![50 Claps](/50claps.gif)
-_Cited: [Loretta_M,](https://medium.com/@loremdance) thanks!_
+_[Cited: [Loretta_M,](https://medium.com/@loremdance) thanks!]_
 
 Delving into the significance of 50 claps, we'll explore how this specific number has become a benchmark for reader engagement, particularly about Medium's 30-second threshold for story engagement. I'll share a humorous personal story about my new [Logitech MX Master 3S mouse](https://amzn.to/3S8uPnz), highlighting the delicate balance between showing appreciation and preserving our digital tools.
 
