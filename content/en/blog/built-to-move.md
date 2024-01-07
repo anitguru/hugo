@@ -3,8 +3,8 @@ author: "Steve VanAllen"
 date: 2024-01-03T00:33:14-05:00
 title: 'The Mobility Blueprint: How Kelly and Juliet Starrett Will Get You Strong, Flexible, and Built to Move'
 description: "Mobility experts Kelly Starrett and Juliet Starrett share practical strategies for improving movement and reclaiming physical freedom in their new book 'Built to Move' - an essential guide for anyone looking to move better, feel better, and discover their physical potential."
-images:
-  - 
+#images:
+#  - 
 thumbnail: "/built-to-move1.png"
 categories: ["Health", "Wealth", "Relationships"]
 tags: ["Health", "Book-Review"]
