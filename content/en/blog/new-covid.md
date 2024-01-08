@@ -18,6 +18,7 @@ _Expert insights on managing new COVID symptoms. Discover effective treatments, 
 As the COVID pandemic continues to evolve, so do its symptoms. The new variant JN.1, although not more severe, brings new challenges. Understanding and managing these symptoms effectively is key to a quick recovery. This article provides a comprehensive approach combining conventional medicines, natural remedies, and lifestyle modifications.
 
 ## Take Action
+![image](/new-covid2.png)
 In addressing the new COVID variant JN.1 and its symptoms, it's crucial to stay informed and prepared. JN.1 has become the dominant variant recently and, while it's not associated with increased risk or severity compared to other variants, caution is always advisable [[1].](https://tech.co/news/new-covid-symptoms-2024-work-remotely)
 
 Symptoms of the JN.1 variant include fever, chills, shortness of breath, fatigue, headache, muscle or body aches, loss of taste or smell, sore throat, congestion, runny nose, nausea and vomiting, and diarrhea [[2].](https://www.nbcnews.com/health/health-news/covid-symptoms-jn1-variant-spreading-rcna130765).
