@@ -9,7 +9,6 @@ tags: ['new', 'covid', 'symptoms']
 date: 2024-01-07
 thumbnail: "/new-covid-1600-650.webp"
 featured: true
-
 ---
 
 _Expert insights on managing new COVID symptoms. Discover effective treatments, natural remedies, and lifestyle tips for swift recovery._
