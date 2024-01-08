@@ -83,5 +83,3 @@ A: Clapping up to 50 times for a post is a great way to show your support. Altho
 > ## Pay It Forward 🌟
 > Enjoyed the article? 👍💬👏📥  
 > Please consider showing your appreciation by _giving us a tip_ on [Ko-fi](https://ko-fi.com/welcomerain) ☕️🎉.  Your support helps us keep the content flowing!
-
----
