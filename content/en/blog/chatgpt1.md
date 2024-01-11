@@ -8,7 +8,7 @@ author: Steve VanAllen
 tags: ['chatgpt']
 date: 2024-01-11
 thumbnail: "/chatgpt-1600x650-unsplash.webp"
-draft: true
+draft: false
 featured: true
 ---
 
