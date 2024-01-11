@@ -13,7 +13,7 @@ featured: true
 ---
 
 ## Preface
-This is a continuation of the this article. For those who read the previous article, thank you and is that AI generated story ... 
+This is a continuation of the [this article.](http://welcomerain.pub/en/blog/chatgpt1/) For those who read the previous article, **thank you** and here is that AI generated story ... 
 
 ## Prompt to write a story
 Write a short fantasy story about the discovery of pandora's box.  No limit on words.
@@ -46,4 +46,16 @@ Can you write a concise prompt that I can use later to generate 4 versions of a 
 > Certainly! Here's a concise prompt you can use later to generate four versions of this image:
 
 > Create a book cover for a fantasy story titled 'The Secret of Pandora's Box'. Feature a mystical twilight forest with an ethereal atmosphere. In the foreground, a young girl with silver hair and sapphire eyes stands before an open, jewel-encrusted box on a jade altar. The box emits a swirl of light and shadows representing spirits like Joy, Sorrow, Wisdom, and Fear, with a central gentle light for Hope. The background should have ancient trees and subtle magical runes. Aim for an enchanting yet slightly ominous mood, capturing the balance between light and dark. Generate four variants, each with a unique interpretation of this mystical and captivating scene, suitable for a fantasy novel cover.
+
+## Results from [DALL·E](https://openai.com/dall-e-3)
+![dalle1.png](/dalle1.png)
+![dalle2.png](/dalle2.png)
+![dalle3.png](/dalle3.png)
+![dalle4.png](/dalle4.png)
+
+## Wrapping Up
+Impressive isn't it?  I'm not suggesting to rely on this for creativity copy; however, if you have plenty of ideas and get stuck during composing, ChatGPT can be a friendly "co-pilot" to get some advice or to bounce ideas off of for interactive feedback!  
+
+## Call to Action
+What did you think of the story?  What improvements might we suggest?  For those who have kicked the tires on this, what was your experience like?  Leave a comment as I would like to hear your input!  
 
