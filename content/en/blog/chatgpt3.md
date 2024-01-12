@@ -37,7 +37,7 @@ Next, we will ask Midjourney the same prompt to see what we get!
 The task was to create a book cover for a fantasy tale, 'The Secret of Pandora's Box.' We envisioned a mystical twilight forest, a silver-haired girl with sapphire eyes, and a jewel-encrusted box on a jade altar. The box was to emit spirits symbolizing different emotions; all centered around a gentle light representing Hope, set against an ancient forest backdrop with magical runes.
 
 ## Insights from Midjourney
-The Midjourney results were more similar than expected. Look at the final image—notice the script on the box. It doesn't seem English, which aligns with our past experiences where specifying American English had little impact. AI image generators often falter with text, making us request images without words. The outcomes, much like the obedience of children, can be hit or miss.
+The Midjourney results were more similar than expected. Look at the final image picture of the script on the box. It doesn't seem English, which aligns with our past experiences where specifying American English had little impact. AI image generators often falter with text, making us request images without words. The outcomes, much like the obedience of children, can be hit or miss.
 
 ## Comparison with Less Description
 Using only the title 'The Secret of Pandora's Box,' the results were intriguing. Below are the outputs, with DALL-E on the left and Midjourney on the right. How do you interpret these artistic expressions?
