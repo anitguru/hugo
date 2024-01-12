@@ -13,7 +13,7 @@ featured: true
 ---
 
 ## Preface
-Welcome back to our exploration of ChatGPT and its artistic capabilities. If you've been following our journey from [the previous articles](http://welcomerain.pub/en/blog/chatgpt2/), *[thank you](https://welcomerain.pub/en/blog/friend-of-medium/)* for your continued interest. Today, we compare the artistic outputs of OpenAI's DALL-E and Midjourney, illuminating the unique nuances of each platform.
+Welcome back to our exploration of ChatGPT and its artistic capabilities. If you've been following our journey from [the previous articles](http://welcomerain.pub/en/blog/chatgpt2/), *[thank you](https://welcomerain.pub/en/blog/friend-of-medium/)* for your continued interest. Today, we compare the creative outputs of OpenAI's DALL-E and Midjourney, illuminating the unique nuances of each platform.
 
 In the [last article](https://medium.com/welcome-rain/opening-pandoras-box-chatgpt-friend-or-foe-part-2-the-secret-of-pandora-s-box-60a8b2a7d471), we shared the stunning images created by DALL-E, which captured the essence of our generated story. We present a side-by-side comparison with Midjourney's interpretations of the same prompt. 
 
@@ -22,12 +22,12 @@ In the [last article](https://medium.com/welcome-rain/opening-pandoras-box-chatg
 ![dalle3.png](/dalle3.png)
 ![dalle4.png](/dalle4.png)
 
-Now, we will ask Midjourney the same prompt to see what we get! 
+Next, we will ask Midjourney the same prompt to see what we get! 
 
 # Prompt to request the images:
 “Create a book cover for a fantasy story titled ‘The Secret of Pandora’s Box’. Feature a mystical twilight forest with an ethereal atmosphere. In the foreground, a young girl with silver hair and sapphire eyes stands before an open, jewel-encrusted box on a jade altar. The box emits a swirl of light and shadows representing spirits like Joy, Sorrow, Wisdom, and Fear, with a central gentle light for Hope. The background should have ancient trees and subtle magical runes. Aim for an enchanting yet slightly ominous mood, capturing the balance between light and dark. Generate four variants, each with a unique interpretation of this mystical and captivating scene, suitable for a fantasy novel cover.”
 
-# Output from Midjourney
+**Output from Midjourney**
 ![midjourney-art1.png](/midjourney-art1.png)
 ![midjourney-art2.png](/midjourney-art2.png)
 ![midjourney-art3.png](/midjourney-art3.png)
