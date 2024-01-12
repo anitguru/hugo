@@ -1,8 +1,8 @@
 ---
-title: "Opening Pandora's Box: ChatGPT, Friend or Foe? Part 2"
+title: "Opening Pandora's Box: ChatGPT, Friend or Foe? Part 2 -> 'The Secret of Pandora’s Box'"
 description: "Explore the extraordinary capabilities of ChatGPT in Part 2 of our series. From creative writing to enhancing websites, discover how this AI shapes our daily lives."
 images:
-  - pandorastory-twitter-card-800x418.png
+  - pandorastory-twitter-card-800x418.webp
 category: Tech
 author: Steve VanAllen
 tags: ['chatgpt']
