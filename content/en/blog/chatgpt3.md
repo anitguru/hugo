@@ -65,10 +65,10 @@ As we conclude this installment, reflect on the insights gained and share your e
 **A:** DALL-E and Midjourney employ distinct algorithms and styles to craft art. DALL-E is celebrated for its detailed and vivid imagery, making it ideal for projects requiring high levels of detail. On the other hand, Midjourney specializes in more atmospheric and stylistic interpretations, suitable for projects seeking a unique aesthetic touch.
 
 ### Q: Can AI Art Generators Produce Images in Various Languages?
-**A:** AI art generators have the capability to incorporate text into images, but their proficiency in accurately representing different languages may vary. To ensure clarity and avoid potential misinterpretations, requesting images without embedded text is advisable.
+**A:** AI art generators have the capability to incorporate text into images, but their proficiency in accurately representing different languages may vary. Requesting images without embedded text is advisable to ensure clarity and avoid potential misinterpretations.
 
 ### Q: What Are the Limitations of AI Art Generators?
-**A:** While AI art generators are quite powerful, they do have limitations. They might struggle with abstract concepts, precise text representations, and understanding nuanced artistic themes. Furthermore, they operate within ethical boundaries, refraining from creating certain types of content.
+**A:** While AI art generators are pretty powerful, they have limitations. They might struggle with abstract concepts, precise text representations, and understanding nuanced artistic themes. Furthermore, they operate within ethical boundaries, refraining from creating certain types of content.
 
 ### Q: Legal Aspects of Using AI-Generated Art: What Should I Know?
 **A:** When using AI-generated art, it's crucial to familiarize yourself with the terms of service of the specific AI art generator. Generally, you can use AI-generated art for personal, commercial, or educational purposes, but there may be certain restrictions on redistribution or alteration. Always check the guidelines to ensure compliant usage.
