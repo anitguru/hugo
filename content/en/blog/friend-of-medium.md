@@ -89,9 +89,9 @@ Remember that the 'Friend of Medium' program is not just a membership service; i
 
 ---
 
-> Visit [audible.com](https://amzn.to/3GWQmJk) to listen to the audiobook for FREE.
+> Visit [audible.com](https://amzn.to/3GWQmJk) to listen to an audiobook about making money writing blogs for FREE!.
 
-*Your support on ‘[Buy Me a Coffee](https://wlr.link/buy-me-a-coffee)’ fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
+*Your support of ‘[Buy Me a Coffee](https://wlr.link/buy-me-a-coffee)’ fuels my journey as a content creator. It enables me to delve deeper into novel concepts, continue my path of lifelong learning, and create meaningful content. Thank you for being a vital part of my adventure! Each cup of coffee makes a difference in making this possible.*
 
 ![Buy me a coffee!](/coffee.png)
 
