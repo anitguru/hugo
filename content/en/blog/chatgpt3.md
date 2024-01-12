@@ -65,7 +65,7 @@ As we conclude this installment, reflect on the insights gained and share your e
 **A:** DALL-E and Midjourney employ distinct algorithms and styles to craft art. DALL-E is celebrated for its detailed and vivid imagery, making it ideal for projects requiring high levels of detail. On the other hand, Midjourney specializes in more atmospheric and stylistic interpretations, suitable for projects seeking a unique aesthetic touch.
 
 ### Q: Can AI Art Generators Produce Images in Various Languages?
-**A:** AI art generators have the capability to incorporate text into images, but their proficiency in accurately representing different languages may vary. To ensure clarity and avoid potential misinterpretations, it's advisable to request images without embedded text.
+**A:** AI art generators have the capability to incorporate text into images, but their proficiency in accurately representing different languages may vary. To ensure clarity and avoid potential misinterpretations, requesting images without embedded text is advisable.
 
 ### Q: What Are the Limitations of AI Art Generators?
 **A:** While AI art generators are quite powerful, they do have limitations. They might struggle with abstract concepts, precise text representations, and understanding nuanced artistic themes. Furthermore, they operate within ethical boundaries, refraining from creating certain types of content.
