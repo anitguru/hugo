@@ -116,7 +116,7 @@ params:
   enableSearch: true
   social:
     twitter: welcomerainpub
-  description: Text about my cool site
+  description: Enhancing Health, Wealth, & Relationships—A Journey of Empowerment
   images:
     - base_icon_transparent_background.png
   searchKeys: ["tags", "date", "categories", "summary", "content", "link", "author"]
